@@ -1,0 +1,135 @@
+{
+    "completions": [
+        {
+            "id": 5001,
+            "lead_time": 32.345,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "foIOM8AocZ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.617224880382775,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 27.142857142857142,
+                        "x": 2.857142857142857,
+                        "y": 61.72248803827751
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "rx7FkFXEeE",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.181818181818187,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 27.857142857142858,
+                        "x": 61.42857142857143,
+                        "y": 67.94258373205741
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "mNmQi6tbq1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.703349282296656,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 38.57142857142858,
+                        "x": 40,
+                        "y": 76.55502392344498
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "dCWEyOiI_v",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 42.10526315789474,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 85,
+                        "x": 4.285714285714286,
+                        "y": 52.1530124080125
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "FHVPccpg9j",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 23.47470785839042,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 47.142857142857146,
+                        "x": 42.857142857142854,
+                        "y": 71.04872781179648
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "ddck40mV_l",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 50.717703349282296,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 87.14285714285714,
+                        "x": 5.714285714285714,
+                        "y": 45.45454545454545
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "The Perks of Being a Wallflower",
+        "sinopsis": "An introvert freshman is taken under the wings of two seniors who welcome him to the real world.",
+        "tahun": "(2012)"
+    },
+    "id": 5
+}

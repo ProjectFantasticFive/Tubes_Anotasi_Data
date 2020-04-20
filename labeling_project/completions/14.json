@@ -1,0 +1,97 @@
+{
+    "completions": [
+        {
+            "id": 14001,
+            "lead_time": 51.59,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "VFvK9ly525",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.095693779904305,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 37.142857142857146,
+                        "x": 51.42857142857143,
+                        "y": 31.57894736842105
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "N7s09hun6B",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.48803827751196,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 45.714285714285715,
+                        "x": 6.428571428571429,
+                        "y": 33.49282296650718
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "-MQ7x8mJZ2",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 29.1866028708134,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 88.57142857142857,
+                        "x": 5.714285714285714,
+                        "y": 31.10047846889952
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "-vOftOHern",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 44.97607655502392,
+                        "rectanglelabels": [
+                            "ibu"
+                        ],
+                        "rotation": 0,
+                        "width": 37.142857142857146,
+                        "x": 12.142857142857142,
+                        "y": 23.444976076555022
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Room",
+        "sinopsis": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+        "tahun": "(2015)"
+    },
+    "id": 14
+}

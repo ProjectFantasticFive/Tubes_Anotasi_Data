@@ -1,0 +1,136 @@
+{
+    "completions": [
+        {
+            "id": 4001,
+            "lead_time": 18.847,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "M86SO4Ue4u",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.62200956937799,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 37.142857142857146,
+                        "x": 2.142857142857143,
+                        "y": 15.789473684210526
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "gB1vBthS38",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 35.88516746411482,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 36.42857142857143,
+                        "x": 60.714285714285715,
+                        "y": 18.181818181818187
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "yST3xXQyLK",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 7.655502392344498,
+                        "rectanglelabels": [
+                            "air"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 10.714285714285714,
+                        "y": 85.16746411483254
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "K92_OUpInL",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 6.698564593301436,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 29.285714285714285,
+                        "x": 57.857142857142854,
+                        "y": 85.64593301435407
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "7B3GCi7I2I",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 53.110047846889955,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 82.14285714285714,
+                        "x": 10,
+                        "y": 8.61244019138756
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "TdQJYVHLzl",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 76.55502392344498,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 90,
+                        "x": 3.5714285714285716,
+                        "y": 2.3923444976076556
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Fantasy",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgzODMyMjcyOV5BMl5BanBnXkFtZTgwMTAyMjMyMjE@._V1_UY209_CR3,0,140,209_AL_.jpg",
+        "judul": "The One I Love",
+        "sinopsis": "A troubled couple vacate to a beautiful getaway, but bizarre circumstances further complicate their situation.",
+        "tahun": "(2014)"
+    },
+    "id": 4
+}

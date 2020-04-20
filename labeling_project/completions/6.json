@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 6001,
+            "lead_time": 14.172,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "xTPO0csUPm",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 39.71291866028708,
+                        "rectanglelabels": [
+                            "agent"
+                        ],
+                        "rotation": 0,
+                        "width": 52.142857142857146,
+                        "x": 23.571428571428573,
+                        "y": 46.889952153110045
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "ZBpURO56eT",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 47.84688995215311,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 63.57142857142857,
+                        "x": 19.285714285714285,
+                        "y": 40.19138755980861
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "fIzVT0oW1Q",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.397129186602871,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 95.71428571428571,
+                        "x": 0,
+                        "y": 72.72727272727273
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZGZkNzFkYTgtYTBkZC00M2MzLWJhNzUtMGE4YzRhYmU2Zjg0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Selma",
+        "sinopsis": "A chronicle of Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama, in 1965.",
+        "tahun": "(2014)"
+    },
+    "id": 6
+}

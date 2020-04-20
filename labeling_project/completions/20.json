@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 20001,
+            "lead_time": 30.139,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "KLlBDcDxYs",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.832535885167465,
+                        "rectanglelabels": [
+                            "mobil"
+                        ],
+                        "rotation": 0,
+                        "width": 66.42857142857143,
+                        "x": 14.285714285714286,
+                        "y": 54.54545454545455
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Q7yveUpPNh",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 65.07177033492823,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 31.428571428571427,
+                        "x": 56.42857142857143,
+                        "y": 15.311004784688995
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "w5jINxq19L",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 32.535885167464116,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 42.142857142857146,
+                        "x": 47.857142857142854,
+                        "y": 46.411483253588514
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BN2U1YzdhYWMtZWUzMi00OWI1LWFkM2ItNWVjM2YxMGQ2MmNhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR2,0,140,209_AL_.jpg",
+        "judul": "Nightcrawler",
+        "sinopsis": "When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story.",
+        "tahun": "(2014)"
+    },
+    "id": 20
+}

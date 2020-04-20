@@ -1,0 +1,98 @@
+{
+    "completions": [
+        {
+            "id": 2001,
+            "lead_time": 98.985,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "9dzFoeAgMK",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 34.92822966507177,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 45.714285714285715,
+                        "x": 8.571428571428571,
+                        "y": 3.827751196172249
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "iIMofTa6ci",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 26.31578947368421,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 40,
+                        "x": 49.285714285714285,
+                        "y": 5.2631578947368425
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "aNWzml2185",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 31.57894736842105,
+                        "rectanglelabels": [
+                            "gitar"
+                        ],
+                        "rotation": 0,
+                        "width": 87.14285714285714,
+                        "x": 4.285714285714286,
+                        "y": 58.85167464114833
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "MHl__KwpRq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 45.45454545454545,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 89.28571428571429,
+                        "x": 4.285714285714286,
+                        "y": 1.4354066985645932
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Music"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Sing Street",
+        "sinopsis": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+        "tahun": "(2016)"
+    },
+    "id": 2
+}

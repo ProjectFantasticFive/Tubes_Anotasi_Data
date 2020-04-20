@@ -1,0 +1,117 @@
+{
+    "completions": [
+        {
+            "id": 11001,
+            "lead_time": 33.367,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "0iVMLixudO",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.311004784688995,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 12.857142857142858,
+                        "x": 14.285714285714286,
+                        "y": 49.760765550239235
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "0JgpBZq5Yh",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.703349282296646,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 40.714285714285715,
+                        "x": 47.142857142857146,
+                        "y": 38.75598086124402
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "CM1Eo5IH-P",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 40.66985645933014,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 90,
+                        "x": 5.714285714285714,
+                        "y": 42.10526315789474
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "rWMvPGOu-W",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 44.01913875598086,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 59.19913467095822,
+                        "x": 26.479978366773956,
+                        "y": 49.282296650717704
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "uPI0cVRtur",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 34.285714285714285,
+                        "x": 58.57142857142857,
+                        "y": 62.20095693779904
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Spotlight",
+        "sinopsis": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "tahun": "(2015)"
+    },
+    "id": 11
+}

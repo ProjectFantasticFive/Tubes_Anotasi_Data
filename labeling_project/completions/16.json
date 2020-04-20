@@ -1,0 +1,115 @@
+{
+    "completions": [
+        {
+            "id": 16001,
+            "lead_time": 43.051,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "mxbYyDT3zV",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 41.80487992173154,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 71.249356943715,
+                        "x": 13.054888416907746,
+                        "y": 10.269002668053968
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "111Xb8J97h",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 46.889952153110045,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 71.42857142857143,
+                        "x": 13.571428571428571,
+                        "y": 11.483253588516746
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "cFJCCPWbOJ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 51.67464114832536,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 87.14285714285714,
+                        "x": 5,
+                        "y": 8.61244019138756
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Su8Z290ahK",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 55.02392344497608,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 87.85714285714286,
+                        "x": 4.285714285714286,
+                        "y": 7.177033492822966
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "lBpnUaD9fW",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 60.28708133971292,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 81.42857142857143,
+                        "x": 9.285714285714286,
+                        "y": 4.784688995215311
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkwODUzODA0OV5BMl5BanBnXkFtZTgwMTA3ODkxNzE@._V1_UY209_CR2,0,140,209_AL_.jpg",
+        "judul": "Mustang",
+        "sinopsis": "When five orphan girls are seen innocently playing with boys on a beach, their scandalized conservative guardians confine them while forced marriages are arranged.",
+        "tahun": "(2015)"
+    },
+    "id": 16
+}

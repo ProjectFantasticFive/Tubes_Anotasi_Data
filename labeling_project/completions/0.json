@@ -1,0 +1,229 @@
+{
+    "completions": [
+        {
+            "id": 1,
+            "lead_time": 88.744,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "0ddhtjxUaR",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 41.6267942583732,
+                        "rectanglelabels": [
+                            "alien"
+                        ],
+                        "rotation": 0,
+                        "width": 30.714285714285715,
+                        "x": 11.428571428571429,
+                        "y": 43.0622009569378
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "-_UAFOl4XH",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.966507177033492,
+                        "rectanglelabels": [
+                            "future"
+                        ],
+                        "rotation": 0,
+                        "width": 20,
+                        "x": 6.428571428571429,
+                        "y": 8.133971291866029
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "TyaBL9o1X1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.49282296650718,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 70,
+                        "x": 20,
+                        "y": 2.8708133971291865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "aNA2B4Po_s",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 30,
+                        "x": 65.71428571428571,
+                        "y": 24.880382775119617
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "5jxpa-ZOy8",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.01968479565837,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 45.063357644783714,
+                        "x": 44.99812013279448,
+                        "y": 60.295153527524285
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "result": [],
+            "skipped": true
+        },
+        {
+            "id": 3,
+            "result": [],
+            "skipped": true
+        },
+        {
+            "id": 4,
+            "lead_time": 37.156,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "6EeurIsANq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 28.708133971291865,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 41.42857142857143,
+                        "x": 29.285714285714285,
+                        "y": 6.220095693779904
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "OoXTEeFg8R",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.966507177033492,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 23.571428571428573,
+                        "x": 67.85714285714286,
+                        "y": 27.272727272727273
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "1ETwqnDXa6",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.014354066985646,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 46.42857142857143,
+                        "x": 43.57142857142857,
+                        "y": 62.67942583732057
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "5PkrgOEoIK",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 38.75598086124402,
+                        "rectanglelabels": [
+                            "alien"
+                        ],
+                        "rotation": 0,
+                        "width": 22.857142857142858,
+                        "x": 17.142857142857142,
+                        "y": 43.54066985645933
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "TWhqaOouOj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 44.49760765550239,
+                        "rectanglelabels": [
+                            "future"
+                        ],
+                        "rotation": 0,
+                        "width": 35.714285714285715,
+                        "x": 10.714285714285714,
+                        "y": 39.23444976076555
+                    }
+                }
+            ],
+            "skipped": true
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Mystery",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Arrival",
+        "sinopsis": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+        "tahun": "(2016)"
+    },
+    "id": 0
+}

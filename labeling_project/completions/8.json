@@ -1,0 +1,136 @@
+{
+    "completions": [
+        {
+            "id": 8001,
+            "lead_time": 55.717,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "KhfSCihm_T",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 37.32057416267943,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 67.85714285714286,
+                        "x": 32.142857142857146,
+                        "y": 0
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Sh_lBP9506",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 50.717703349282296,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 57.142857142857146,
+                        "x": 4.285714285714286,
+                        "y": 5.741626794258373
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "lr6wOv4iHG",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.004784688995215,
+                        "rectanglelabels": [
+                            "waktu"
+                        ],
+                        "rotation": 0,
+                        "width": 31.428571428571427,
+                        "x": 55.714285714285715,
+                        "y": 85.16746411483254
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "9sKM3l5Unf",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 55.50239234449761,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 65.71428571428571,
+                        "x": 19.285714285714285,
+                        "y": 9.569377990430622
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "v9UESmVqs1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 61.24401913875598,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 74.28571428571429,
+                        "x": 10.714285714285714,
+                        "y": 5.741626794258373
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "AA8wDoPbfF",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 63.1578947368421,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 76.42857142857143,
+                        "x": 11.428571428571429,
+                        "y": 6.220095693779904
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "About Time",
+        "sinopsis": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+        "tahun": "(2013)"
+    },
+    "id": 8
+}

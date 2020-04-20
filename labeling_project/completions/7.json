@@ -1,0 +1,117 @@
+{
+    "completions": [
+        {
+            "id": 7001,
+            "lead_time": 21.767,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "2VBmAyXAm7",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.095693779904305,
+                        "rectanglelabels": [
+                            "lari"
+                        ],
+                        "rotation": 0,
+                        "width": 42.142857142857146,
+                        "x": 21.428571428571427,
+                        "y": 62.67942583732059
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "XwFGw40HmV",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 26.794258373205743,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 37.142857142857146,
+                        "x": 28.571428571428566,
+                        "y": 44.01913875598086
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "u2Rk82wDze",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.62200956937799,
+                        "rectanglelabels": [
+                            "agent"
+                        ],
+                        "rotation": 0,
+                        "width": 46.42857142857143,
+                        "x": 25.714285714285708,
+                        "y": 49.760765550239235
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "a1TXkHX8mH",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.311004784688995,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 65,
+                        "x": 9.285714285714286,
+                        "y": 72.24880382775122
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "i9r3MhzaGC",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 75.78232345269501,
+                        "rectanglelabels": [
+                            "kota"
+                        ],
+                        "rotation": 0,
+                        "width": 56.42857142857143,
+                        "x": 1.4285714285714286,
+                        "y": -1.7572915781711054
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "The Secret Life of Walter Mitty",
+        "sinopsis": "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he could have ever imagined.",
+        "tahun": "(2013)"
+    },
+    "id": 7
+}

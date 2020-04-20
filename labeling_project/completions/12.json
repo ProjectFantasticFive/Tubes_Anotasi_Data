@@ -1,0 +1,116 @@
+{
+    "completions": [
+        {
+            "id": 12001,
+            "lead_time": 51.463,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "IJZW8ky9sg",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.22488038277512,
+                        "rectanglelabels": [
+                            "kota"
+                        ],
+                        "rotation": 0,
+                        "width": 97.14285714285714,
+                        "x": 0,
+                        "y": 47.84688995215311
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "zY1tjpC2jF",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 42.58373205741627,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 49.285714285714285,
+                        "x": 23.571428571428573,
+                        "y": 18.660287081339714
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "gsbNDjG5ag",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.311004784688995,
+                        "rectanglelabels": [
+                            "air"
+                        ],
+                        "rotation": 0,
+                        "width": 12.142857142857142,
+                        "x": 86.42857142857143,
+                        "y": 69.85645933014354
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "TxQ5I0BBhj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 3.827751196172249,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 65.71428571428571,
+                        "x": 5.714285714285714,
+                        "y": 68.42105263157895
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "cVktn8E-rs",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 28.708133971291865,
+                        "rectanglelabels": [
+                            "perahu"
+                        ],
+                        "rotation": 0,
+                        "width": 72.85714285714286,
+                        "x": 7.857142857142857,
+                        "y": 67.94258373205741
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzE4MDk5NzEyOV5BMl5BanBnXkFtZTgwNDM4NDA3NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Brooklyn",
+        "sinopsis": "An Irish immigrant lands in 1950s Brooklyn, where she quickly falls into a romance with a local. When her past catches up with her, however, she must choose between two countries and the lives that exist within.",
+        "tahun": "(2015)"
+    },
+    "id": 12
+}
