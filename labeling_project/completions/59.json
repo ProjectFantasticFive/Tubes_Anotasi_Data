@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 59001,
+            "lead_time": 7.219,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "mlBn8u4UHD",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.48803827751196,
+                        "rectanglelabels": [
+                            "future"
+                        ],
+                        "rotation": 0,
+                        "width": 60.714285714285715,
+                        "x": 17.857142857142858,
+                        "y": 39.71291866028708
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "VCrko6JqGJ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 71.29186602870813,
+                        "rectanglelabels": [
+                            "mata"
+                        ],
+                        "rotation": 0,
+                        "width": 86.42857142857143,
+                        "x": 7.857142857142857,
+                        "y": 12.440191387559809
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MTAwMDI1OF5BMl5BanBnXkFtZTgwNjUwMTA2MTE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "I Origins",
+        "sinopsis": "A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.",
+        "tahun": "(2014)"
+    },
+    "id": 59
+}

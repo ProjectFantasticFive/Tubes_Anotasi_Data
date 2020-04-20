@@ -1,0 +1,41 @@
+{
+    "completions": [
+        {
+            "id": 62001,
+            "lead_time": 55.316,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "PKHVr0xNWo",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 55.02392344497608,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 40,
+                        "x": 56.42857142857143,
+                        "y": 3.827751196172249
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Three Billboards Outside Ebbing, Missouri",
+        "sinopsis": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+        "tahun": "(2017)"
+    },
+    "id": 62
+}

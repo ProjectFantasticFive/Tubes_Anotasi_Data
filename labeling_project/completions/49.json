@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 49001,
+            "lead_time": 47.805,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "uxG484TJCy",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.832535885167465,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 23.571428571428573,
+                        "x": 20.714285714285715,
+                        "y": 36.8421052631579
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "7thXdaRdL-",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 31.10047846889952,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 50,
+                        "x": 2.857142857142857,
+                        "y": 1.4354066985645932
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Documentary",
+            " Comedy",
+            " Crime"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE2NTg1NDM4Ml5BMl5BanBnXkFtZTcwMzMxOTkyMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Exit Through the Gift Shop",
+        "sinopsis": "Following the style of some of the world's most prolific street artists, an amateur filmmaker makes a foray into the art world.",
+        "tahun": "(2010)"
+    },
+    "id": 49
+}

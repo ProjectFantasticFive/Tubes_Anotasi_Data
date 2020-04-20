@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 57001,
+            "lead_time": 75.457,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "i6vLxQvkiT",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 27.272727272727273,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 56.42857142857143,
+                        "x": 25.714285714285715,
+                        "y": 27.272727272727273
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "dOTFRM9Vbj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.483253588516746,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 13.571428571428571,
+                        "x": 50.714285714285715,
+                        "y": 15.311004784688995
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "-pe1t9Ij2q",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.311004784688995,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 20.714285714285715,
+                        "x": 29.285714285714285,
+                        "y": 6.220095693779904
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQzMzQ4MDAyNF5BMl5BanBnXkFtZTcwNzE0MDk3OA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Upstream Color",
+        "sinopsis": "A man and woman are drawn together, entangled in the life cycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+        "tahun": "(2013)"
+    },
+    "id": 57
+}

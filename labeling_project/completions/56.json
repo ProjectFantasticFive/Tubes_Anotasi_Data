@@ -1,0 +1,77 @@
+{
+    "completions": [
+        {
+            "id": 56001,
+            "lead_time": 270.788,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "D52l0knd55",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.789473684210526,
+                        "rectanglelabels": [
+                            "angka"
+                        ],
+                        "rotation": 0,
+                        "width": 34.285714285714285,
+                        "x": 34.285714285714285,
+                        "y": 48.803827751196174
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "W-5SCY86z1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.569377990430622,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 67.14285714285714,
+                        "x": 17.142857142857142,
+                        "y": 74.16267942583734
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "3SOA8xT466",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.660287081339714,
+                        "rectanglelabels": [
+                            "rumah"
+                        ],
+                        "rotation": 0,
+                        "width": 87.85714285714286,
+                        "x": 8.571428571428571,
+                        "y": 70.33492822966505
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTEwNjE2OTM4NDZeQTJeQWpwZ15BbWU3MDE2MTE4OTk@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Short Term 12",
+        "sinopsis": "A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend.",
+        "tahun": "(2013)"
+    },
+    "id": 56
+}

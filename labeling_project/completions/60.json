@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 60001,
+            "lead_time": 37.652,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "w9rdpx7RKe",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.574162679425836,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 37.857142857142854,
+                        "x": 30.714285714285715,
+                        "y": 36.363636363636374
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "FM6l78Fvwm",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.703349282296656,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 13.571428571428571,
+                        "x": 85,
+                        "y": 73.68421052631577
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "pg76uAkidy",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.095693779904305,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 12.857142857142854,
+                        "x": 2.142857142857143,
+                        "y": 76.07655502392345
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAzNTIzMjkxNjJeQTJeQWpwZ15BbWU3MDEwNDQ2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Another Earth",
+        "sinopsis": "On the night of the discovery of a duplicate Earth in the Solar system, an ambitious young student and an accomplished composer cross paths in a tragic accident.",
+        "tahun": "(2011)"
+    },
+    "id": 60
+}

@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 43001,
+            "lead_time": 119.891,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "X7jzPbeN6S",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.14354066985646,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 45,
+                        "x": 15,
+                        "y": 1.4354066985645932
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "GSGMmkGcbh",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 21.05263157894737,
+                        "rectanglelabels": [
+                            "perahu"
+                        ],
+                        "rotation": 0,
+                        "width": 63.57142857142857,
+                        "x": 27.142857142857142,
+                        "y": 67.94258373205741
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "xF9UgM91v6",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.397129186602871,
+                        "rectanglelabels": [
+                            "air"
+                        ],
+                        "rotation": 0,
+                        "width": 17.857142857142858,
+                        "x": 5.714285714285714,
+                        "y": 72.72727272727273
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Mystery"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Winter's Bone",
+        "sinopsis": "An unflinching Ozark Mountain girl hacks through dangerous social terrain as she hunts down her drug-dealing father while trying to keep her family intact.",
+        "tahun": "(2010)"
+    },
+    "id": 43
+}

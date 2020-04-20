@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 63001,
+            "lead_time": 41.871,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "YIfSqguBln",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 77.51196172248804,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 24.285714285714285,
+                        "x": 5.714285714285714,
+                        "y": 4.30622009569378
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "vP0G1T9GIU",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 73.20574162679426,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 31.428571428571427,
+                        "x": 67.14285714285714,
+                        "y": 3.827751196172249
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "6neKtjhu6q",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 39.71291866028708,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 20,
+                        "x": 41.42857142857143,
+                        "y": 15.789473684210526
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Adventure",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "The Shape of Water",
+        "sinopsis": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+        "tahun": "(2017)"
+    },
+    "id": 63
+}

@@ -1,0 +1,59 @@
+{
+    "completions": [
+        {
+            "id": 47001,
+            "lead_time": 93.912,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "WJDSj_Sda7",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.49282296650718,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 58.57142857142857,
+                        "x": 32.857142857142854,
+                        "y": 9.569377990430622
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "zPDlIaErqk",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.49282296650718,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 47.39344156877218,
+                        "x": 3.9461369034278033,
+                        "y": 61.72248803827751
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDY2OTE5MzE0Nl5BMl5BanBnXkFtZTcwNDAyOTc2NA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "In a Better World",
+        "sinopsis": "The lives of two Danish families cross each other, and an extraordinary but risky friendship comes into bud. But loneliness, frailty and sorrow lie in wait.",
+        "tahun": "(2010)"
+    },
+    "id": 47
+}

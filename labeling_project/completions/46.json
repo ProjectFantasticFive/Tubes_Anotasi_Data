@@ -1,0 +1,40 @@
+{
+    "completions": [
+        {
+            "id": 46001,
+            "lead_time": 28.66,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "vaQjz2gDBK",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 6.220095693779904,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 45.714285714285715,
+                        "x": 27.857142857142858,
+                        "y": 80.38277511961722
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTkyMDE5N15BMl5BanBnXkFtZTcwNjIwNzQwMw@@._V1_UY209_CR4,0,140,209_AL_.jpg",
+        "judul": "Dogtooth",
+        "sinopsis": "Three teenagers live isolated, without leaving their house, because their over-protective parents say they can only leave when their dogtooth falls out.",
+        "tahun": "(2009)"
+    },
+    "id": 46
+}

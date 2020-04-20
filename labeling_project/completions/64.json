@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 64001,
+            "lead_time": 81.712,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "wmZaxjIpfN",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 53.588516746411486,
+                        "rectanglelabels": [
+                            "perang"
+                        ],
+                        "rotation": 0,
+                        "width": 80.71428571428572,
+                        "x": 7.857142857142857,
+                        "y": 3.349282296650718
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "KsSsBoANja",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "nazi"
+                        ],
+                        "rotation": 0,
+                        "width": 87.85714285714286,
+                        "x": 9.285714285714286,
+                        "y": 59.80861244019139
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Action",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Dunkirk",
+        "sinopsis": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.",
+        "tahun": "(2017)"
+    },
+    "id": 64
+}

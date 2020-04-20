@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 48001,
+            "lead_time": 51.996,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "_oUhGJYb_h",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 16.267942583732058,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 32.142857142857146,
+                        "x": 6.428571428571429,
+                        "y": 11.483253588516746
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "FjThtqYZ_I",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.62200956937799,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 2.857142857142857,
+                        "y": 61.72248803827751
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Mystery",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Incendies",
+        "sinopsis": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "tahun": "(2010)"
+    },
+    "id": 48
+}

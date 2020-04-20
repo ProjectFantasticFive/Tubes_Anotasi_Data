@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 54001,
+            "lead_time": 55.821,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "Cqk9mOkQ4J",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 8.133971291866029,
+                        "rectanglelabels": [
+                            "astronot"
+                        ],
+                        "rotation": 0,
+                        "width": 37.857142857142854,
+                        "x": 10,
+                        "y": 62.67942583732057
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "RQQuCUR_Gj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.660287081339714,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 26.428571428571427,
+                        "x": 30.714285714285715,
+                        "y": 8.61244019138756
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "L2GJGU8yBY",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.48803827751196,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 68.57142857142857,
+                        "x": 20,
+                        "y": 37.79904306220096
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Rogue One: A Star Wars Story",
+        "sinopsis": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.",
+        "tahun": "(2016)"
+    },
+    "id": 54
+}
