@@ -1,0 +1,98 @@
+{
+    "completions": [
+        {
+            "id": 71001,
+            "lead_time": 16.74,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "zYukLCNZFp",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 32.057416267942585,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 45,
+                        "x": 2.857142857142857,
+                        "y": 13.875598086124402
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "cdZg7ileXJ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 23.923444976076556,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 39.285714285714285,
+                        "x": 2.142857142857143,
+                        "y": 75.5980861244019
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "pskkYVbET3",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.832535885167465,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 91.42857142857143,
+                        "x": 4.285714285714286,
+                        "y": 10.047846889952153
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "WFkCnpk-_a",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.090909090909092,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 35.714285714285715,
+                        "x": 60,
+                        "y": 39.23444976076555
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "I, Tonya",
+        "sinopsis": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.",
+        "tahun": "(2017)"
+    },
+    "id": 71
+}

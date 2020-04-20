@@ -1,0 +1,192 @@
+{
+    "completions": [
+        {
+            "id": 77001,
+            "lead_time": 149.242,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "9oTgiPzKdG",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.83732057416268,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 21.428571428571427,
+                        "x": 55.714285714285715,
+                        "y": 53.588516746411486
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "YEjhQhtZ1v",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.090909090909092,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 85,
+                        "x": 12.857142857142858,
+                        "y": 40.66985645933014
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "MNz9LskWBn",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "lari"
+                        ],
+                        "rotation": 0,
+                        "width": 97.85714285714286,
+                        "x": 0.7142857142857143,
+                        "y": 70.33492822966507
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "wiXEuGb9Vy",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.569377990430622,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 97.14285714285714,
+                        "x": 0.7142857142857143,
+                        "y": 52.63157894736842
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "DNporzut3J",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 41.14832535885167,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 97.14285714285714,
+                        "x": 0.7142857142857143,
+                        "y": 49.282296650717704
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "1feBh5iAGX",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 40.66985645933014,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 17.857142857142858,
+                        "x": 3.5714285714285716,
+                        "y": 45.933014354066984
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "PyL700Bys_",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 34.44976076555024,
+                        "rectanglelabels": [
+                            "ayah"
+                        ],
+                        "rotation": 0,
+                        "width": 19.285714285714285,
+                        "x": 78.57142857142857,
+                        "y": 51.67463975103245
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Ydwxgt--zd",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 32.535885167464116,
+                        "rectanglelabels": [
+                            "ibu"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 0,
+                        "y": 56.9377965977996
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "uGmUWBSri4",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.961722488038278,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 28.571428571428573,
+                        "y": 78.4688953645847
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYWZmOTY0MDAtMGRlMS00YjFlLWFkZTUtYmJhYWNlN2JjMmZkXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Shoplifters",
+        "sinopsis": "A family of small-time crooks take in a child they find outside in the cold.",
+        "tahun": "(2018)"
+    },
+    "id": 77
+}

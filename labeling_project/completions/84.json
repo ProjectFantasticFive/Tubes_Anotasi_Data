@@ -1,0 +1,153 @@
+{
+    "completions": [
+        {
+            "id": 84001,
+            "lead_time": 104.124,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "-ae62mmlcv",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.311004784688995,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 14.285714285714286,
+                        "x": 81.42857142857143,
+                        "y": 75.11961722488039
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "si29IouSxt",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.789473684210526,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 12.142857142857142,
+                        "x": 69.28571428571429,
+                        "y": 77.51196172248804
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "qYaxuNmkGq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.875598086124402,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 35.714285714285715,
+                        "x": 1.4285714285714286,
+                        "y": 73.6842105263158
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "54E8eruV4F",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 45.45454545454545,
+                        "rectanglelabels": [
+                            "tumbuhan"
+                        ],
+                        "rotation": 0,
+                        "width": 55,
+                        "x": 3.5714285714285716,
+                        "y": 21.5311004784689
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "eRku6V1tC2",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 23.923444976076556,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 36.42857142857143,
+                        "x": 63.57142857142857,
+                        "y": 70.33492822966507
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "pSDzUUrgzr",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.789473684210526,
+                        "rectanglelabels": [
+                            "ayah"
+                        ],
+                        "rotation": 0,
+                        "width": 15,
+                        "x": 82.14285714285714,
+                        "y": 77.99042939937829
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "73Be80ryub",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 12.440191387559809,
+                        "rectanglelabels": [
+                            "ibu"
+                        ],
+                        "rotation": 0,
+                        "width": 9.285714285714286,
+                        "x": 70.71428571428571,
+                        "y": 79.42583728564183
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE3OTI1MTU0OV5BMl5BanBnXkFtZTgwNTg1MzkzNTM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Leave No Trace",
+        "sinopsis": "A father and his thirteen year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon, when a small mistake derails their lives forever.",
+        "tahun": "(2018)"
+    },
+    "id": 84
+}

@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 74001,
+            "lead_time": 37.828,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "SgUbPnbfao",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.961722488038278,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 93.57142857142857,
+                        "x": 4.285714285714286,
+                        "y": 81.81818181818184
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "RLt9KMCtjI",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 32.057416267942585,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 59.285714285714285,
+                        "x": 29.285714285714285,
+                        "y": 43.0622009569378
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "vsyWIX14VC",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "ayah"
+                        ],
+                        "rotation": 0,
+                        "width": 65,
+                        "x": 19.285714285714285,
+                        "y": 43.54066985645933
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNTU4MjMwOTgyMV5BMl5BanBnXkFtZTgwODQzNjY2NDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Darkest Hour",
+        "sinopsis": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",
+        "tahun": "(2017)"
+    },
+    "id": 74
+}

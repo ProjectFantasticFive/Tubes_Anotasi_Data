@@ -1,0 +1,137 @@
+{
+    "completions": [
+        {
+            "id": 87001,
+            "lead_time": 111.951,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "wc1VhXeEgy",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.22488038277512,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 21.428571428571427,
+                        "x": 35,
+                        "y": 50.23923486894864
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "2xk8k6R6LJ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.569377990430622,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 51.42857142857143,
+                        "x": 6.428571428571429,
+                        "y": 38.27751196172249
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "FTwwZlL09F",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.181818181818183,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 51.42857142857143,
+                        "x": 9.285714285714286,
+                        "y": 51.67464114832536
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "p2JkcOldTV",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 27.751196172248804,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 59.285714285714285,
+                        "x": 3.5714285714285716,
+                        "y": 53.110047846889955
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "od9JdXNR7i",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 38.27751196172249,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 59.285714285714285,
+                        "x": 2.857142857142857,
+                        "y": 52.63157629251188
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "CcEEr5ISB5",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 26.794258373205743,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 27.857142857142858,
+                        "x": 68.57142857142857,
+                        "y": 47.84688995215311
+                    }
+                }
+            ],
+            "skipped": true
+        }
+    ],
+    "data": {
+        "genre": [
+            "Action",
+            " Biography",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Ford v Ferrari",
+        "sinopsis": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "tahun": "(2019)"
+    },
+    "id": 87
+}

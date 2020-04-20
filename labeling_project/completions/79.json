@@ -1,0 +1,117 @@
+{
+    "completions": [
+        {
+            "id": 79001,
+            "lead_time": 88.884,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "ShTNCaizeY",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.569377990430622,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 55,
+                        "x": 20.714285714285715,
+                        "y": 7.655502392344498
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "JBF8qvIkni",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 38.27751196172249,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 44.285714285714285,
+                        "x": 30,
+                        "y": 56.45933014354067
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "dXZsUAfLpA",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 53.588516746411486,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 72.85714285714286,
+                        "x": 23.571428571428573,
+                        "y": 32.535885167464116
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "w5XgEY0POW",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 44.01913875598086,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 70,
+                        "x": 12.857142857142858,
+                        "y": 36.36363636363637
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "h1f2DRKg5G",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.93188854489164,
+                        "rectanglelabels": [
+                            "ibu"
+                        ],
+                        "rotation": 0,
+                        "width": 20.714285714285715,
+                        "x": 57.142857142857146,
+                        "y": 40.47082445485324
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "The Favourite",
+        "sinopsis": "In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah.",
+        "tahun": "(2018)"
+    },
+    "id": 79
+}

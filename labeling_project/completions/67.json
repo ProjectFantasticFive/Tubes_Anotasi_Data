@@ -1,0 +1,174 @@
+{
+    "completions": [
+        {
+            "id": 67001,
+            "lead_time": 20.927,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "pOr9TxZqV6",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 28.708133971291865,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 80.71428571428572,
+                        "x": 6.428571428571427,
+                        "y": 23.923444976076556
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "zbq7iPbC3h",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 50.717703349282296,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 30.714285714285715,
+                        "x": 53.57142857142857,
+                        "y": 17.22488038277512
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "PFYnuttZOx",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.97129186602871,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 27.142857142857142,
+                        "x": 22.857142857142858,
+                        "y": 19.617224880382775
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "RoolVLjXhm",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 16.74641148325359,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 22.857142857142858,
+                        "x": 75,
+                        "y": 73.20574162679428
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "W8LJkfYHtA",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.832535885167461,
+                        "rectanglelabels": [
+                            "air"
+                        ],
+                        "rotation": 0,
+                        "width": 18.571428571428573,
+                        "x": 2.857142857142857,
+                        "y": 76.55502392344498
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "5MFQeDtYCR",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.832535885167461,
+                        "rectanglelabels": [
+                            "binatang"
+                        ],
+                        "rotation": 0,
+                        "width": 19.28571428571429,
+                        "x": 13.571428571428571,
+                        "y": 57.89473684210526
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "0EeqgE9G9g",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 6.220095693779904,
+                        "rectanglelabels": [
+                            "kartun"
+                        ],
+                        "rotation": 0,
+                        "width": 45.714285714285715,
+                        "x": 25.714285714285708,
+                        "y": 84.21052631578948
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "0pz6i2F5aw",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 32.857142857142854,
+                        "x": 32.142857142857146,
+                        "y": 73.205741382268
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Animation",
+            " Adventure",
+            " Comedy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Moana",
+        "sinopsis": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+        "tahun": "(2016)"
+    },
+    "id": 67
+}

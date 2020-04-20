@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 73001,
+            "lead_time": 20.028,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "xHiHTsFq9o",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 8.61244019138756,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 89.28571428571429,
+                        "x": 5,
+                        "y": 84.21052631578948
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "6KBMfDZvqy",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 41.14832535885167,
+                        "rectanglelabels": [
+                            "binatang"
+                        ],
+                        "rotation": 0,
+                        "width": 88.57142857142857,
+                        "x": 5.714285714285714,
+                        "y": 2.8708133971291865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Mheg1pz0t4",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 28.229665071770334,
+                        "rectanglelabels": [
+                            "angka"
+                        ],
+                        "rotation": 0,
+                        "width": 62.142857142857146,
+                        "x": 15,
+                        "y": 46.411483253588514
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Adventure",
+            " Comedy",
+            " Family"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMmYwNWZlNzEtNjE4Zi00NzQ4LWI2YmUtOWZhNzZhZDYyNmVmXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Paddington 2",
+        "sinopsis": "Paddington (Ben Whishaw), now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's (Imelda Staunton's) 100th birthday, only for the gift to be stolen.",
+        "tahun": "(2017)"
+    },
+    "id": 73
+}

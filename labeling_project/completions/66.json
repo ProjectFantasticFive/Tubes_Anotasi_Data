@@ -1,0 +1,98 @@
+{
+    "completions": [
+        {
+            "id": 66001,
+            "lead_time": 21.922,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "dblNGrJCDW",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 38.27751196172249,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 92.85714285714286,
+                        "x": 7.142857142857143,
+                        "y": 48.803827890925476
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "BRikeQzG9u",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 34.44976076555024,
+                        "rectanglelabels": [
+                            "gedung"
+                        ],
+                        "rotation": 0,
+                        "width": 92.14285714285714,
+                        "x": 5.714285714285714,
+                        "y": 13.397129186602871
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "DTqfThBUsl",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 28.708133971291865,
+                        "rectanglelabels": [
+                            "kantor"
+                        ],
+                        "rotation": 0,
+                        "width": 20,
+                        "x": 0,
+                        "y": 34.44976076555024
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "8joPolbXHW",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 6.698564593301436,
+                        "rectanglelabels": [
+                            "angka"
+                        ],
+                        "rotation": 0,
+                        "width": 30,
+                        "x": 40,
+                        "y": 87.08133971291866
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Spider-Man: Homecoming",
+        "sinopsis": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+        "tahun": "(2017)"
+    },
+    "id": 66
+}

@@ -1,0 +1,117 @@
+{
+    "completions": [
+        {
+            "id": 76001,
+            "lead_time": 56.423,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "LQg5yMeHbh",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 7.655502392344498,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 92.85714285714286,
+                        "x": 4.285714285714286,
+                        "y": 86.1244019138756
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "qJzjgP00BL",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 27.751196172248804,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 16.428571428571427,
+                        "x": 43.57142857142857,
+                        "y": 50.717703349282296
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "yugWonbQ_P",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 36.36363636363637,
+                        "rectanglelabels": [
+                            "tumbuhan"
+                        ],
+                        "rotation": 0,
+                        "width": 89.28571428571429,
+                        "x": 5.714285714285714,
+                        "y": 10.526315789473685
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "I0Bi7Vb0eC",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 24.880382775119617,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 72.14285714285714,
+                        "x": 12.857142857142858,
+                        "y": 51.196172248803826
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "8F9xgP7Y4P",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.660287081339714,
+                        "rectanglelabels": [
+                            "perang"
+                        ],
+                        "rotation": 0,
+                        "width": 88.57142857142857,
+                        "x": 2.857142857142857,
+                        "y": 55.02392344497608
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Adventure",
+            " Drama",
+            " Horror"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Annihilation",
+        "sinopsis": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+        "tahun": "(2018)"
+    },
+    "id": 76
+}

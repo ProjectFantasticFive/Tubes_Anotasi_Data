@@ -1,0 +1,115 @@
+{
+    "completions": [
+        {
+            "id": 78001,
+            "lead_time": 50.701,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "UVETMr0rC-",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.660287081339714,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 68.57142857142857,
+                        "x": 17.142857142857142,
+                        "y": 62.20095693779904
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "zmXKPdL5sq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 16.74641148325359,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 18.571428571428573,
+                        "x": 34.285714285714285,
+                        "y": 41.6267942583732
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "bqxfnIBeO6",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.181818181818183,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 22.142857142857142,
+                        "x": 12.142857142857142,
+                        "y": 39.23444976076555
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "PaHtbnOimN",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 7.655502392344498,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 13.571428571428571,
+                        "x": 85,
+                        "y": 50.239234449760765
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "3WQhFKHPK5",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 52.15311004784689,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 83.57142857142857,
+                        "x": 9.285714285714286,
+                        "y": 27.272727272727273
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Roma",
+        "sinopsis": "A year in the life of a middle-class family's maid in Mexico City in the early 1970s.",
+        "tahun": "(2018)"
+    },
+    "id": 78
+}

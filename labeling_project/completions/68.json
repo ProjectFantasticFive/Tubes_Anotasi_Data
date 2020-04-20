@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 68001,
+            "lead_time": 11.27,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "X8579Kpcwq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 52.63157894736842,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 45,
+                        "x": 54.285714285714285,
+                        "y": 40.19138755980861
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "a6bxYUXPVs",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 12.91866028708134,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 44.285714285714285,
+                        "x": 8.571428571428571,
+                        "y": 36.8421052631579
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0MDU4NjI1OV5BMl5BanBnXkFtZTgwOTY3NDc3MTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Obvious Child",
+        "sinopsis": "A twenty-something comedienne's unplanned pregnancy forces her to confront the realities of independent womanhood for the first time.",
+        "tahun": "(2014)"
+    },
+    "id": 68
+}

@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 70001,
+            "lead_time": 19.88,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "o7bWpwmzna",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 63.1578947368421,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 95.71428571428574,
+                        "x": 3.5714285714285707,
+                        "y": 0
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "NJXx51yS30",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.574162679425836,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 41.42857142857143,
+                        "x": 28.571428571428566,
+                        "y": 14.832535885167461
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "PQJlCeK-Dl",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.397129186602871,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 55,
+                        "x": 21.428571428571427,
+                        "y": 70.8133971291866
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMWJkNzBkM2UtYWFlMC00NmEwLTgxOGUtMjVmMzYyZjgyMmEzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Phantom Thread",
+        "sinopsis": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+        "tahun": "(2017)"
+    },
+    "id": 70
+}

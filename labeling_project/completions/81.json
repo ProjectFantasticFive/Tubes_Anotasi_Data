@@ -1,0 +1,136 @@
+{
+    "completions": [
+        {
+            "id": 81001,
+            "lead_time": 62.875,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "fvQoW1OY8G",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 29.66507177033493,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 37.857142857142854,
+                        "x": 3.5714285714285716,
+                        "y": 9.090909090909092
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "oG9rJG3oon",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 12.91866028708134,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 44.285714285714285,
+                        "x": 28.571428571428573,
+                        "y": 58.85167464114833
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "jOG2c9cQW9",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 8.133971291866029,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 15.714285714285714,
+                        "x": 42.857142857142854,
+                        "y": 74.64114832535886
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "fTO2diHRtq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.966507177033492,
+                        "rectanglelabels": [
+                            "robot"
+                        ],
+                        "rotation": 0,
+                        "width": 35.714285714285715,
+                        "x": 63.57142857142857,
+                        "y": 25.358851674641148
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "U6bVxlko1O",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.004784688995215,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 60,
+                        "x": 22.857142857142858,
+                        "y": 72.72727272727273
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "2gDMZxiAcF",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.138755980861244,
+                        "rectanglelabels": [
+                            "ayah"
+                        ],
+                        "rotation": 0,
+                        "width": 36.42857142857143,
+                        "x": 3.5714285714285716,
+                        "y": 18.181817832494954
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUzMTE0NTk4Ml5BMl5BanBnXkFtZTcwNjQ1OTMwOA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Robot & Frank",
+        "sinopsis": "In the near future, an ex-jewel thief receives a gift from his son: a robot butler programmed to look after him. But soon the two companions try their luck as a heist team.",
+        "tahun": "(2012)"
+    },
+    "id": 81
+}

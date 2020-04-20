@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 82001,
+            "lead_time": 66.723,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "WyAqpk72lK",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 6.698564593301436,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 89.28571428571429,
+                        "x": 6.428571428571429,
+                        "y": 7.655502392344498
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "d1jT4Hh_P-",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.00956937799043,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 32.142857142857146,
+                        "x": 34.285714285714285,
+                        "y": 21.05263157894737
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "sXnfSF2k2F",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 32.535885167464116,
+                        "rectanglelabels": [
+                            "agent"
+                        ],
+                        "rotation": 0,
+                        "width": 56.42857142857143,
+                        "x": 26.428571428571427,
+                        "y": 19.138755980861244
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "BlacKkKlansman",
+        "sinopsis": "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.",
+        "tahun": "(2018)"
+    },
+    "id": 82
+}

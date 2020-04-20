@@ -1,0 +1,116 @@
+{
+    "completions": [
+        {
+            "id": 65001,
+            "lead_time": 10.333,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "CT4ZnB5eDL",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 33.014354066985646,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 67.85714285714286,
+                        "x": 11.428571428571429,
+                        "y": 49.282296650717704
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "86HOklBWmG",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 32.057416267942585,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 69.28571428571428,
+                        "x": 5.714285714285714,
+                        "y": 45.93301449379628
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "E4Qww-SQrv",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 29.665071770334922,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 50,
+                        "x": 17.857142857142858,
+                        "y": 49.760764537201865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "58n5WByO6S",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.138755980861244,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 48.57142857142857,
+                        "x": 17.857142857142858,
+                        "y": 54.54545115701922
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "pVHUOmnOhM",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.617224880382775,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 71.42857142857143,
+                        "x": 10.714285714285714,
+                        "y": 24.880382775119617
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Call Me by Your Name",
+        "sinopsis": "In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant.",
+        "tahun": "(2017)"
+    },
+    "id": 65
+}
