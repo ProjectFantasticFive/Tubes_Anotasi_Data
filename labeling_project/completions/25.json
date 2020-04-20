@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 25001,
+            "lead_time": 23.858,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "-2rEmXE6di",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.48076923076923,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 36.42857142857143,
+                        "x": 18.571428571428573,
+                        "y": 2.8846153846153846
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "BUz-UYgMGY",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 81.25,
+                        "rectanglelabels": [
+                            "lari"
+                        ],
+                        "rotation": 0,
+                        "width": 89.28571428571429,
+                        "x": 10,
+                        "y": 8.653846153846153
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "12 Years a Slave",
+        "sinopsis": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+        "tahun": "(2013)"
+    },
+    "id": 25
+}

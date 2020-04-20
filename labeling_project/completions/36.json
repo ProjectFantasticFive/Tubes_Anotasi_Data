@@ -1,0 +1,98 @@
+{
+    "completions": [
+        {
+            "id": 36001,
+            "lead_time": 42.017,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "K2YcRCcIRg",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 10.576923076923077,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 9.285714285714286,
+                        "x": 17.857142857142858,
+                        "y": 37.01923076923077
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "HJ6_pV8opT",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 12.01923076923077,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 40.714285714285715,
+                        "x": 35.714285714285715,
+                        "y": 30.76923076923077
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "6Ht5bME6g6",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.75,
+                        "rectanglelabels": [
+                            "future"
+                        ],
+                        "rotation": 0,
+                        "width": 85,
+                        "x": 13.571428571428571,
+                        "y": 30.28846153846154
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "wyScKSbrdv",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 37.5,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 99.28571428571429,
+                        "x": 0,
+                        "y": 26.923076923076923
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAyNDcxNTk3NV5BMl5BanBnXkFtZTcwMjk4MDU2NA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Beginners",
+        "sinopsis": "A young man is rocked by two announcements from his elderly father: that he has terminal cancer and that he has a young male lover.",
+        "tahun": "(2010)"
+    },
+    "id": 36
+}

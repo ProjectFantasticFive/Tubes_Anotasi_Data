@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 34001,
+            "lead_time": 32.552,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "mi3po-nknz",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 35.57692307692308,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 48.57142857142857,
+                        "x": 31.428571428571427,
+                        "y": 15.865384615384615
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "J5ITbq4RtJ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 16.346153846153847,
+                        "rectanglelabels": [
+                            "mimpi"
+                        ],
+                        "rotation": 0,
+                        "width": 92.14285714285714,
+                        "x": 4.285714285714286,
+                        "y": 46.63461538461539
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Drama",
+            " Sport"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Moneyball",
+        "sinopsis": "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+        "tahun": "(2011)"
+    },
+    "id": 34
+}

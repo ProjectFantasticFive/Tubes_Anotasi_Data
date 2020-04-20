@@ -1,0 +1,79 @@
+{
+    "completions": [
+        {
+            "id": 23001,
+            "lead_time": 34.328,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "NBSuwFS9y1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 49.03846153846154,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 62.857142857142854,
+                        "x": 12.142857142857142,
+                        "y": 15.384615384615385
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "X9wSJZlTWm",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 58.65384615384615,
+                        "rectanglelabels": [
+                            "agent"
+                        ],
+                        "rotation": 0,
+                        "width": 75.71428571428571,
+                        "x": 6.428571428571429,
+                        "y": 10.096153846153847
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "vXXCLmNwP8",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 45.67307692307692,
+                        "rectanglelabels": [
+                            "perang"
+                        ],
+                        "rotation": 0,
+                        "width": 17.142857142857142,
+                        "x": 78.57142857142857,
+                        "y": 27.884615384615383
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Action",
+            " Adventure",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "judul": "Captain America: The Winter Soldier",
+        "sinopsis": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+        "tahun": "(2014)"
+    },
+    "id": 23
+}

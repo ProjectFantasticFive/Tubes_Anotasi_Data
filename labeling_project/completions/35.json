@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 35001,
+            "lead_time": 31.576,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "F5ReH0PmSI",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 65.38461538461539,
+                        "rectanglelabels": [
+                            "ibu"
+                        ],
+                        "rotation": 0,
+                        "width": 58.57142857142857,
+                        "x": 40,
+                        "y": 5.288461538461538
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "FM9cR-Ho08",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 55.76923076923077,
+                        "rectanglelabels": [
+                            "future"
+                        ],
+                        "rotation": 0,
+                        "width": 52.142857142857146,
+                        "x": 24.285714285714285,
+                        "y": 22.596153846153847
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "W_VBYo8N19",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 73.07692307692308,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 70.71428571428571,
+                        "x": 13.571428571428571,
+                        "y": 13.942307692307692
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+        "judul": "The Tree of Life",
+        "sinopsis": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
+        "tahun": "(2011)"
+    },
+    "id": 35
+}

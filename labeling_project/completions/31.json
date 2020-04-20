@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 31001,
+            "lead_time": 21.542,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "2NvwYBPMUf",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 36.53846153846154,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 27.142857142857142,
+                        "x": 37.142857142857146,
+                        "y": 0.9615384615384616
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "S9WydiGdFf",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 75.48076923076923,
+                        "rectanglelabels": [
+                            "agent"
+                        ],
+                        "rotation": 0,
+                        "width": 72.85714285714286,
+                        "x": 12.142857142857142,
+                        "y": 6.730769230769231
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Action",
+            " Adventure",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDVhZmJiYWMtNmIzMC00ZWNiLTkzZDYtNGNlZmViMGM4OGExXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Skyfall",
+        "sinopsis": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+        "tahun": "(2012)"
+    },
+    "id": 31
+}

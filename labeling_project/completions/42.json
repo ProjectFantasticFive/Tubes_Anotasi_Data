@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 42001,
+            "lead_time": 30.052,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "IsJPbPV0-L",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 24.51923076923077,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 84.28571428571429,
+                        "x": 13.571428571428571,
+                        "y": 12.5
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "XUBQb759RE",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 51.92307692307692,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 82.85714285714286,
+                        "x": 9.285714285714286,
+                        "y": 2.8846153846153846
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "sr-M1tPUdx",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 88.9423076923077,
+                        "rectanglelabels": [
+                            "koboi"
+                        ],
+                        "rotation": 0,
+                        "width": 84.28571428571429,
+                        "x": 13.571428571428571,
+                        "y": 1.9230769230769231
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Western"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BODhkZDIzNjgtOTA5ZS00MmMzLWFkNjYtM2Y2MzFjN2FkNjAzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg",
+        "judul": "True Grit",
+        "sinopsis": "A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.",
+        "tahun": "(2010)"
+    },
+    "id": 42
+}

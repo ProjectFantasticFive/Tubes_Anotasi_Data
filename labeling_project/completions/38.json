@@ -1,0 +1,59 @@
+{
+    "completions": [
+        {
+            "id": 38001,
+            "lead_time": 16.944,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "DhHG6HrHun",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.76923076923077,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 43.57142857142857,
+                        "x": 42.142857142857146,
+                        "y": 18.75
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "_7rVWuUxwS",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 45.19230769230769,
+                        "rectanglelabels": [
+                            "mobil"
+                        ],
+                        "rotation": 0,
+                        "width": 97.85714285714286,
+                        "x": 1.4285714285714286,
+                        "y": 25
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Crime",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Drive",
+        "sinopsis": "A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama.",
+        "tahun": "(2011)"
+    },
+    "id": 38
+}
