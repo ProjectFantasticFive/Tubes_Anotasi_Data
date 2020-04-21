@@ -1,0 +1,98 @@
+{
+    "completions": [
+        {
+            "id": 85001,
+            "lead_time": 45.948,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "3ceKmnRyVH",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.617224880382775,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 27.142857142857142,
+                        "x": 11.428571428571429,
+                        "y": 71.29186602870811
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Mtcn1g8ebC",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 26.794258373205743,
+                        "rectanglelabels": [
+                            "air"
+                        ],
+                        "rotation": 0,
+                        "width": 97.85714285714283,
+                        "x": 2.142857142857163,
+                        "y": 68.42105263157895
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "jbRKlr3nBM",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 28.708133971291865,
+                        "rectanglelabels": [
+                            "tumbuhan"
+                        ],
+                        "rotation": 0,
+                        "width": 96.42857142857143,
+                        "x": 0.7142857142857143,
+                        "y": 41.14832535885167
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "a5tdkKCeO0",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.181818181818183,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 88.57142857142857,
+                        "x": 6.428571428571429,
+                        "y": 72.72727272727273
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Crime",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhkNzVkYjAtMGMzMi00Y2JjLWFkMzgtNjQ3Mzk2YThhZWExXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Border",
+        "sinopsis": "A customs officer who can smell fear develops an unusual attraction to a strange traveler while aiding a police investigation which will call into question her entire existence.",
+        "tahun": "(2018)"
+    },
+    "id": 85
+}

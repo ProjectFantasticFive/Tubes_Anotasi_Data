@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 83001,
+            "lead_time": 91.457,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "y0oSm_ANET",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.354066985645932,
+                        "rectanglelabels": [
+                            "mata"
+                        ],
+                        "rotation": 0,
+                        "width": 36.42857142857143,
+                        "x": 63.57142857142857,
+                        "y": 20.574162889019775
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "zDNrH3F2bD",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 29.66507177033493,
+                        "rectanglelabels": [
+                            "judul"
+                        ],
+                        "rotation": 0,
+                        "width": 97.14285714285714,
+                        "x": 1.4285714285714286,
+                        "y": 37.32057416267943
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "XKgadaGGrU",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 35.4066985645933,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 96.42857142857143,
+                        "x": 2.142857142857143,
+                        "y": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMzVlYzgxYjAtYzhhZi00MDc1LTlkZDMtMTRhZWI0MTg5YTRjXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Eighth Grade",
+        "sinopsis": "An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.",
+        "tahun": "(2018)"
+    },
+    "id": 83
+}

@@ -1,0 +1,46 @@
+{
+    "completions": [
+        {
+            "id": 85001,
+            "lead_time": 64.805,
+            "result": []
+        },
+        {
+            "id": 85002,
+            "result": [],
+            "skipped": true
+        },
+        {
+            "id": 85003,
+            "result": [],
+            "skipped": true
+        },
+        {
+            "id": 85004,
+            "result": [],
+            "skipped": true
+        },
+        {
+            "id": 85005,
+            "result": [],
+            "skipped": true
+        },
+        {
+            "id": 85006,
+            "result": [],
+            "skipped": true
+        }
+    ],
+    "data": {
+        "genre": [
+            "Crime",
+            " Drama",
+            " Fantasy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhkNzVkYjAtMGMzMi00Y2JjLWFkMzgtNjQ3Mzk2YThhZWExXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Border",
+        "sinopsis": "A customs officer who can smell fear develops an unusual attraction to a strange traveler while aiding a police investigation which will call into question her entire existence.",
+        "tahun": "(2018)"
+    },
+    "id": 85
+}

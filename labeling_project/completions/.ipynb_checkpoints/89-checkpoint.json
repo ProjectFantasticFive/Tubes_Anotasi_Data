@@ -1,0 +1,21 @@
+{
+    "completions": [
+        {
+            "id": 89001,
+            "lead_time": 44.722,
+            "result": []
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " History",
+            " Romance"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNGUwYTQxZDYtYTZlMy00YmVhLTkyOTYtOTUwMzI2NTBlOWNhXkEyXkFqcGdeQXVyNTM2NTg3Nzg@._V1_UY209_CR4,0,140,209_AL_.jpg",
+        "judul": "Never Look Away",
+        "sinopsis": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the DDR-regime.",
+        "tahun": "(2018)"
+    },
+    "id": 89
+}

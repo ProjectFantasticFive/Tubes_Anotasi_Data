@@ -1,0 +1,96 @@
+{
+    "completions": [
+        {
+            "id": 96001,
+            "lead_time": 148.845,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "ER-JGeHASj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 16.267942583732058,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 15,
+                        "x": 30,
+                        "y": 61.24401913875598
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "I4wXx-1jg-",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.966507177033492,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 20,
+                        "x": 71.42857142857143,
+                        "y": 21.05263157894737
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "iflNWGExzW",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 69.377990430622,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 88.57142857142857,
+                        "x": 7.142857142857143,
+                        "y": 11.004784688995215
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "2xuhxUVTqg",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.004784688995215,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 40,
+                        "x": 39.285714285714285,
+                        "y": 21.05263157894737
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNWU4MTM2YTgtYTRlZC00ZmRhLTlkYTMtZDkyYzNjZDU1NmI0XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Pain and Glory",
+        "sinopsis": "An aging film director suffering from chronic illness and writer's block reflects on his life.",
+        "tahun": "(2019)"
+    },
+    "id": 96
+}

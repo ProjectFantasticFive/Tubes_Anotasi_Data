@@ -1,0 +1,96 @@
+{
+    "completions": [
+        {
+            "id": 103001,
+            "lead_time": 92.675,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "3CS2rDPSMj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 23.923444976076556,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 40,
+                        "x": 57.142857142857146,
+                        "y": 3.827751196172249
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "T-hxm0757i",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 24.880382775119617,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 77.14285714285714,
+                        "x": 5.714285714285714,
+                        "y": 2.8708133971291865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "jnWodAoKrT",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 87.85714285714286,
+                        "x": 6.428571428571429,
+                        "y": 4.784688995215311
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "mL0PGq-gPN",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.14354066985646,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 92.85714285714286,
+                        "x": 1.4285714285714286,
+                        "y": 1.4354066985645932
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Booksmart",
+        "sinopsis": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.",
+        "tahun": "(2019)"
+    },
+    "id": 103
+}

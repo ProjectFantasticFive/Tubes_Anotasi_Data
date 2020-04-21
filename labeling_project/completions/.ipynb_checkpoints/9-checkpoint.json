@@ -1,0 +1,41 @@
+{
+    "completions": [
+        {
+            "id": 9001,
+            "lead_time": 16.594,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "_1j7rlej2s",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 75.59808612440192,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 87.85714285714286,
+                        "x": 5.714285714285714,
+                        "y": 2.8708133971291865
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " Romance",
+            " Sci-Fi"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Her",
+        "sinopsis": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+        "tahun": "(2013)"
+    },
+    "id": 9
+}

@@ -1,0 +1,39 @@
+{
+    "completions": [
+        {
+            "id": 100001,
+            "lead_time": 140.624,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "2fquVXo9SM",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.48803827751196,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 47.142857142857146,
+                        "x": 29.285714285714285,
+                        "y": 4.30622009569378
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Calvary",
+        "sinopsis": "After he is threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
+        "tahun": "(2014)"
+    },
+    "id": 100
+}

@@ -1,0 +1,77 @@
+{
+    "completions": [
+        {
+            "id": 1001,
+            "lead_time": 17.785,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "VhHJgv6pL1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 72.72727272727275,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 90,
+                        "x": 3.5714285714285716,
+                        "y": 1.4354066985645932
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "yzEC7ndgBw",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 7.177033492822966,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 75.71428571428571,
+                        "x": 10,
+                        "y": 81.81818181818181
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "p7BrIJ9dxs",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.138755980861244,
+                        "rectanglelabels": [
+                            "waktu"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 9.285714285714286,
+                        "y": 65.07177033492823
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Moonlight",
+        "sinopsis": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+        "tahun": "(2016)"
+    },
+    "id": 1
+}

@@ -1,0 +1,77 @@
+{
+    "completions": [
+        {
+            "id": 90001,
+            "lead_time": 181.418,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "yv-BIi5hg8",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.00956937799043,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 77.85714285714286,
+                        "x": 12.857142857142858,
+                        "y": 3.827751196172249
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "fqrEzHTWbX",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 41.49504195270785,
+                        "rectanglelabels": [
+                            "binatang"
+                        ],
+                        "rotation": 0,
+                        "width": 69.65091299677766,
+                        "x": 18.38882921589688,
+                        "y": 42.410373760488184
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "K5T8Fwvomp",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 65.07177033492823,
+                        "rectanglelabels": [
+                            "kuda"
+                        ],
+                        "rotation": 0,
+                        "width": 94.28571428571429,
+                        "x": 1.4285714285714286,
+                        "y": 28.708133971291865
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BNDkwYzBjOTItYTFhZC00ZWZlLTg1YzYtZWU4ZGZhZWI0MmNkXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "The Mustang",
+        "sinopsis": "The story of Roman Coleman, a violent convict, who is given the chance to participate in a rehabilitation therapy program involving the training of wild mustangs.",
+        "tahun": "(2019)"
+    },
+    "id": 90
+}

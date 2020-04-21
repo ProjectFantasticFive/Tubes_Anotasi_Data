@@ -1,0 +1,117 @@
+{
+    "completions": [
+        {
+            "id": 92001,
+            "lead_time": 131.655,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "OUENy7FsyU",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 24.880382775119617,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 28.571428571428573,
+                        "x": 25.714285714285715,
+                        "y": 35.4066985645933
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "WGv7GcIJTQ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.83732057416268,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 29.285714285714285,
+                        "x": 67.14285714285714,
+                        "y": 10.526315789473685
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "h7VeqC4fpX",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.62200956937799,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 54.285714285714285,
+                        "x": 2.142857142857143,
+                        "y": 32.535885167464116
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "g2UnMwZRgB",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 55.98086124401914,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 96.42857142857143,
+                        "x": 2.142857142857143,
+                        "y": 8.133971291866029
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "FKJx3LK8gV",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 25.358851674641148,
+                        "rectanglelabels": [
+                            "pacar"
+                        ],
+                        "rotation": 0,
+                        "width": 62.142857142857146,
+                        "x": 0,
+                        "y": 34.44976076555024
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Music"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTE3ODg1Ml5BMl5BanBnXkFtZTgwMTI4NTE4NTM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Juliet, Naked",
+        "sinopsis": "Juliet, Naked is the story of Annie (the long-suffering girlfriend of Duncan) and her unlikely transatlantic romance with once revered, now faded, singer-songwriter, Tucker Crowe, who also happens to be the subject of Duncan's musical obsession.",
+        "tahun": "(2018)"
+    },
+    "id": 92
+}

@@ -1,0 +1,60 @@
+{
+    "completions": [
+        {
+            "id": 98001,
+            "lead_time": 135.164,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "YXyK-mxSdn",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 16.74641148325359,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 21.428571428571427,
+                        "x": 37.857142857142854,
+                        "y": 28.708133971291865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "cJhXdN9Z2A",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.483253588516746,
+                        "rectanglelabels": [
+                            "binatang"
+                        ],
+                        "rotation": 0,
+                        "width": 55.714285714285715,
+                        "x": 34.285714285714285,
+                        "y": 20.095693779904305
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Biography",
+            " Drama",
+            " Sport"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Foxcatcher",
+        "sinopsis": "U.S. Olympic wrestling champions and brothers Mark Schultz and Dave Schultz join \"Team Foxcatcher\", led by eccentric multi-millionaire John du Pont, as they train for the 1988 Olympic Games in Seoul, South Korea, but John's self-destructive behavior threatens to consume them all.",
+        "tahun": "(2014)"
+    },
+    "id": 98
+}

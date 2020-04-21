@@ -1,0 +1,116 @@
+{
+    "completions": [
+        {
+            "id": 94001,
+            "lead_time": 166.568,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "_EuAk2zbfX",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 50.717703349282296,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 23.571428571428573,
+                        "x": 40.714285714285715,
+                        "y": 21.05263157894737
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "JmyQe0tX1j",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 7.177033492822966,
+                        "rectanglelabels": [
+                            "perang"
+                        ],
+                        "rotation": 0,
+                        "width": 8.571428571428571,
+                        "x": 4.285714285714286,
+                        "y": 86.1244019138756
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "drobXpu2NF",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 7.655502392344498,
+                        "rectanglelabels": [
+                            "nazi"
+                        ],
+                        "rotation": 0,
+                        "width": 10,
+                        "x": 84.28571428571429,
+                        "y": 83.2535885167464
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "xWRPMZWl8Q",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 66.98564593301435,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 31.428571428571427,
+                        "x": 1.4285714285714286,
+                        "y": 2.8708133971291865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "0Om2zt0g8N",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 62.20095693779904,
+                        "rectanglelabels": [
+                            "kantor"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 69.28571428571429,
+                        "y": 11.483253588516746
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " History"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZmE5N2FkMDUtNDcxNi00MjUwLWExNDYtZmY4NGQ5NTg4OTQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Labyrinth of Lies",
+        "sinopsis": "A story that exposes the conspiracy of prominent German institutions and government branches to cover up the crimes of Nazis during World War II.",
+        "tahun": "(2014)"
+    },
+    "id": 94
+}

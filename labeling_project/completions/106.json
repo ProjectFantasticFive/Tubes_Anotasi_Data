@@ -1,0 +1,135 @@
+{
+    "completions": [
+        {
+            "id": 106001,
+            "lead_time": 558.842,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "17Idtvg2VL",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 8.133971291866029,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 7.142857142857143,
+                        "x": 2.857142857142857,
+                        "y": 13.875598086124402
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "i76gGBoBtz",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 58.3732057416268,
+                        "rectanglelabels": [
+                            "air laut"
+                        ],
+                        "rotation": 0,
+                        "width": 63.722943722943725,
+                        "x": 28.85281385281385,
+                        "y": 35.88516746411483
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "CVvB59mkJj",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 23.444976076555022,
+                        "rectanglelabels": [
+                            "perahu"
+                        ],
+                        "rotation": 0,
+                        "width": 54.144869215291756,
+                        "x": 41.4989939637827,
+                        "y": 60.76555023923445
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "xGo3BRvv9f",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.095693779904305,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 54.285714285714285,
+                        "x": 5.714285714285714,
+                        "y": 7.655502392344498
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "VwBzG2XE-i",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.875598086124402,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 65,
+                        "x": 2.142857142857143,
+                        "y": 11.004784688995215
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "7h489XwEoB",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 26.794258373205743,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 66.42857142857143,
+                        "x": 3.5714285714285716,
+                        "y": 3.827751196172249
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Documentary",
+            " Sport"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZDAzMDYyODktN2ZiOC00MzBiLWI0M2EtODE3NmYyMTU3YjRkXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Maiden",
+        "sinopsis": "The story of Tracy Edwards, a 24-year-old cook on charter boats, who became the skipper of the first ever all-female crew to enter the Whitbread Round the World Race in 1989.",
+        "tahun": "(2018)"
+    },
+    "id": 106
+}

@@ -1,0 +1,135 @@
+{
+    "completions": [
+        {
+            "id": 93001,
+            "lead_time": 169.814,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "W9VmkLjlme",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.22488038277512,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 17.142857142857142,
+                        "x": 60,
+                        "y": 1.9138755980861244
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "9AHJnc--at",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.397129186602871,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 19.285714285714285,
+                        "x": 19.285714285714285,
+                        "y": 3.827751196172249
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "JcxxfdWTcB",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 40.66985645933014,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 92.14285714285714,
+                        "x": 4.285714285714286,
+                        "y": 50.239234449760765
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "MwczTb_gWl",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 45.933014354066984,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 90.71428571428571,
+                        "x": 3.5714285714285716,
+                        "y": 47.84688995215311
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "LyJ_0MNifr",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 44.49760765550239,
+                        "rectanglelabels": [
+                            "teman"
+                        ],
+                        "rotation": 0,
+                        "width": 88.57142857142857,
+                        "x": 2.857142857142857,
+                        "y": 44.01913875598086
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "ynZW-cNjRz",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.138755980861244,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 93.57142857142857,
+                        "x": 4.285714285714286,
+                        "y": 1.9138755980861244
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZTVmZWFjNjktZGU2NC00NDM5LWEwM2ItMTFmODk2N2FlYmI4XkEyXkFqcGdeQXVyODIzMzU2Mzk@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Brigsby Bear",
+        "sinopsis": "After being freed from his life in an underground bunker, a man sets out to make a movie of the only TV show he has ever known.",
+        "tahun": "(2017)"
+    },
+    "id": 93
+}

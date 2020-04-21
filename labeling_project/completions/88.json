@@ -1,0 +1,78 @@
+{
+    "completions": [
+        {
+            "id": 88001,
+            "lead_time": 119.29,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "3IN0nCD86v",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 27.751196172248804,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 32.857142857142854,
+                        "x": 17.142857142857142,
+                        "y": 62.20095693779904
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "47De43k4Zt",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 31.10047846889952,
+                        "rectanglelabels": [
+                            "sahabat"
+                        ],
+                        "rotation": 0,
+                        "width": 79.28571428571429,
+                        "x": 11.428571428571429,
+                        "y": 60.76555023923445
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "xPpjQWRhtN",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 74.16267942583733,
+                        "rectanglelabels": [
+                            "gedung"
+                        ],
+                        "rotation": 0,
+                        "width": 95.71428571428571,
+                        "x": 1.4285714285714286,
+                        "y": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BY2RiOTc1YmYtMDk0Yy00ZWI4LTgzN2YtYTg2ZDZmOGIwNTA1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "The Two Popes",
+        "sinopsis": "Behind Vatican walls, the conservative Pope Benedict XVI and the liberal future Pope Francis must find common ground to forge a new path for the Catholic Church.",
+        "tahun": "(2019)"
+    },
+    "id": 88
+}

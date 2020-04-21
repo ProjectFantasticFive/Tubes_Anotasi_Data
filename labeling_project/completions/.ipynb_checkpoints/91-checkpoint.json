@@ -1,0 +1,174 @@
+{
+    "completions": [
+        {
+            "id": 91001,
+            "lead_time": 195.44,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "3hYIbOpfoR",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 11.961722488038278,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 12.142857142857142,
+                        "x": 22.142857142857142,
+                        "y": 36.36363636363637
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "54tnQp2k0r",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 22.966507177033492,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 11.428571428571429,
+                        "x": 41.42857142857143,
+                        "y": 26.794258373205743
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "K_SA4bNFMm",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 30.14354066985646,
+                        "rectanglelabels": [
+                            "keluarga"
+                        ],
+                        "rotation": 0,
+                        "width": 32.142857142857146,
+                        "x": 6.428571428571429,
+                        "y": 26.794258373205743
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "NSBNQNBkV1",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 47.84688995215311,
+                        "rectanglelabels": [
+                            "ayah"
+                        ],
+                        "rotation": 0,
+                        "width": 24.285714285714285,
+                        "x": 57.857142857142854,
+                        "y": 22.48803827751196
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "vQ_w1gXJny",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 15.311004784688995,
+                        "rectanglelabels": [
+                            "ibu"
+                        ],
+                        "rotation": 0,
+                        "width": 17.142857142857142,
+                        "x": 21.428571428571427,
+                        "y": 37.32057416267943
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "O9c22ppjCq",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 9.569377990430622,
+                        "rectanglelabels": [
+                            "kaki"
+                        ],
+                        "rotation": 0,
+                        "width": 31.428571428571427,
+                        "x": 4.285714285714286,
+                        "y": 72.72727272727273
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "CUPnZGjnUc",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 47.84688995215311,
+                        "rectanglelabels": [
+                            "rumah"
+                        ],
+                        "rotation": 0,
+                        "width": 84.28571428571429,
+                        "x": 7.857142857142857,
+                        "y": 4.784688995215311
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "rHHt9bH_tA",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 53.110047846889955,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 83.57142857142857,
+                        "x": 7.857142857142857,
+                        "y": 19.138755980861244
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " Thriller"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "judul": "Parasite",
+        "sinopsis": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+        "tahun": "(2019)"
+    },
+    "id": 91
+}

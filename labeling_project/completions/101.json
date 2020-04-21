@@ -1,0 +1,117 @@
+{
+    "completions": [
+        {
+            "id": 101001,
+            "lead_time": 513.793,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "w79aP8qvan",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.875598086124402,
+                        "rectanglelabels": [
+                            "perempuan"
+                        ],
+                        "rotation": 0,
+                        "width": 20,
+                        "x": 14.285714285714286,
+                        "y": 22.00956937799043
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "G8ebIE6bHf",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 20.095693779904305,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 25.714285714285715,
+                        "x": 32.857142857142854,
+                        "y": 13.397129186602871
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "ZDHlXNk30c",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 17.22488038277512,
+                        "rectanglelabels": [
+                            "nazi"
+                        ],
+                        "rotation": 0,
+                        "width": 17.857142857142858,
+                        "x": 60,
+                        "y": 15.311004784688995
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "8J3LNeKs7d",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 31.10047846889952,
+                        "rectanglelabels": [
+                            "kumpulan"
+                        ],
+                        "rotation": 0,
+                        "width": 85,
+                        "x": 7.142857142857143,
+                        "y": 14.832535885167465
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "lLBqgfkRS2",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 50.717703349282296,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 91.42857142857143,
+                        "x": 4.285714285714286,
+                        "y": 14.832535885167465
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Comedy",
+            " Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "Jojo Rabbit",
+        "sinopsis": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.",
+        "tahun": "(2019)"
+    },
+    "id": 101
+}

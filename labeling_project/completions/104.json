@@ -1,0 +1,116 @@
+{
+    "completions": [
+        {
+            "id": 104001,
+            "lead_time": 130.938,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "elG8mPZRGU",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 44.97607655502392,
+                        "rectanglelabels": [
+                            "angka"
+                        ],
+                        "rotation": 0,
+                        "width": 87.14285714285714,
+                        "x": 4.285714285714286,
+                        "y": 2.8708133971291865
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "1ThNwOcRQS",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 47.84688995215311,
+                        "rectanglelabels": [
+                            "lari"
+                        ],
+                        "rotation": 0,
+                        "width": 26.428571428571427,
+                        "x": 50,
+                        "y": 48.803827751196174
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "0Tu1_WjI4u",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 18.660287081339714,
+                        "rectanglelabels": [
+                            "laki-laki"
+                        ],
+                        "rotation": 0,
+                        "width": 16.428571428571427,
+                        "x": 12.142857142857142,
+                        "y": 78.4688995215311
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "M6iHeQS6lZ",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 14.832535885167465,
+                        "rectanglelabels": [
+                            "perang"
+                        ],
+                        "rotation": 0,
+                        "width": 58.57142857142857,
+                        "x": 31.428571428571427,
+                        "y": 59.33014354066986
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "Yob5e_lFaV",
+                    "original_height": 209,
+                    "original_width": 140,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 54.54545454545455,
+                        "rectanglelabels": [
+                            "orang-orang"
+                        ],
+                        "rotation": 0,
+                        "width": 69.28571428571429,
+                        "x": 5.714285714285714,
+                        "y": 43.0622009569378
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "genre": [
+            "Drama",
+            " War"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+        "judul": "1917",
+        "sinopsis": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "tahun": "(2019)"
+    },
+    "id": 104
+}
