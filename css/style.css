@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #0C9CEE;
+  color: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -444,7 +444,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #0C9CEE;
+  color: black;
   position: absolute;
   left: 0;
   top: .05em;
@@ -968,9 +968,14 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
 }
 
-#fh5co-footer {
-  background: #efefef;
+#fh5co-services {
+    background: white;
 }
+
+#fh5co-footer {
+    background: #c2a876;
+}
+
 #fh5co-footer .fh5co-footer-links {
   padding: 0;
   margin: 0;
