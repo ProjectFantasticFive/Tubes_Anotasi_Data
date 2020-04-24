@@ -21,7 +21,7 @@
 	<meta name="twitter:card" content="" />
 
 	<!-- <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
-	
+
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
@@ -39,10 +39,10 @@
 	<![endif]-->
 
 	</head>
-	<body>
-		
+	<body onload="allfilms()">
+
 	<div class="fh5co-loader"></div>
-	
+
 	<div id="page">
 	<nav class="fh5co-nav" role="navigation">
 		<div class="container">
@@ -70,7 +70,7 @@
 					</ul>
 				</div>
 			</div>
-			
+
 		</div>
 	</nav>
 
@@ -95,24 +95,16 @@
 		<div class="row">
 			<div class="container">
 				<div class="table-reponsive-sm">
-					<table class="table table-reponsive-sm table-bordered" id="table2">
-						<caption><h2><center>Fantastic Film &mdash; Every film information that you want</center></h2></caption>
+					<caption><h2><center>Fantastic Film &mdash; Every film information that you want</center></h2></caption>
 						<thead>
-							<tr class="table-primary">
-								<th scope="col"><center>No.</center></th>
-								<th scope="col"><center>Poster</center></th>
-								<th scope="col"><center>Judul Film</center></th>
-								<th scope="col"><center>Genre</center></th>
-								<th scope="col"><center>Label</center></th>
-								<th scope="col"><center>Sinopsis</center></th>
-							</tr>
+							<ul class="list_of_films" id="list_of_films2">
+							</ul>
 						</thead>
-					</table>
 				</div>
 			</div>
 		</div>
 	</div>
-	<script>
+	<!-- <script>
 		$(document).ready(function(){
 			$.getJSON("[DONT CHANGE THIS FILE] Labeled IMDb list of films.json", function(data)){
 
@@ -129,7 +121,7 @@
 				$('#table').append(datafilm);
 			});
 		});
-	</script>
+	</script> -->
 
 
 	<footer id="fh5co-footer" role="contentinfo">
@@ -180,7 +172,7 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2020 FANTASTIC FILM. All Rights Reserved.</small> 
+						<small class="block">&copy; 2020 FANTASTIC FILM. All Rights Reserved.</small>
 						<small class="block">Designed by <a href="https://projectfantasticfive.github.io/Tubes_Anotasi_Data/" target="_blank">Fantastic Film</a></small>
 					</p>
 					<p>
@@ -200,7 +192,7 @@
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 	</div>
-	
+
 	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
@@ -214,4 +206,3 @@
 
 	</body>
 </html>
-
