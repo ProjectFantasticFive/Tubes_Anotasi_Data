@@ -5,11 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-*   Template Style
-*
-* ======================================================= */
+
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
@@ -442,7 +438,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #0C9CEE;
+  color: #c2a876;
   position: absolute;
   left: 0;
   top: .05em;
@@ -685,6 +681,13 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   margin-bottom: 40px;
 }
+
+.feature-center hr{
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
 @media screen and (max-width: 768px) {
   .feature-center {
     margin-bottom: 50px;
@@ -1075,7 +1078,6 @@ h1, h2, h3, h4, h5, h6, figure {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   content: "\e921";
@@ -1265,9 +1267,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #0C9CEE;
-  color: #fff;
-  border: 2px solid #0C9CEE;
+  background: #c2a876;
+  border: 2px solid #white;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #20a7f4 !important;
@@ -1588,24 +1589,3 @@ a.film_id:hover, a#join_pop:hover {
   color: black;
   padding: 10px;
 }
-
-/*.form-popup {
-  display: none;
-  position: fixed;
-  bottom: 15px;
-  right: 10px;
-  z-index: 9;
-}
-.form-popup #myForm .btn {
-  background-color: #46bee5;
-  color: black;
-  padding: 15px 15px;
-  border-radius: 10px;
-  cursor: pointer;
-  width: 30%;
-  margin-bottom:10px;
-}
-.form-popup #myForm .btn:hover, .open-button:hover {
-  opacity: 1;
-}
-*/
