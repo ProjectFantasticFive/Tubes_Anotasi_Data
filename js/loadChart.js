@@ -29,8 +29,4 @@ function drawChartFilms() {
     var chart = new google.visualization.PieChart(document.getElementById('filmsChart'));
     chart.draw(data, options);
   });
-
-  console.log(data1);
-
-
 }

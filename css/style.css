@@ -1460,7 +1460,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 34px;
   padding: 10px;
 }
-.panel a#buy_pop, .panel a#join_pop {
+.panel a.film_id, .panel a#join_pop {
   background-color: #46bee5;
   color: black;
   padding: 15px 15px;
@@ -1471,7 +1471,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 10px;
 }
 
-a#buy_pop:hover, a#join_pop:hover {
+a.film_id:hover, a#join_pop:hover {
     border-color: black;
 }
 .overlay {
@@ -1499,6 +1499,10 @@ a#buy_pop:hover, a#join_pop:hover {
 }
 
 .popup {
+  min-width: 300px;
+  min-height: 400px;
+  width: 60%;
+  height: 75%;
   background-color: #fff;
   border: 3px solid #fff;
   display: inline-block;
