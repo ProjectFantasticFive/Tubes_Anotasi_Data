@@ -211,72 +211,92 @@
 
 }());
 
+function datafilms_01(value) {
+	return '<div class="filmrec">'
+										+'<img src="'+value.data.image+'.jpg">'
+											+'<a class="film_id" href="#'+value.data.judul.split(" ").join("")+'">'+value.data.judul+'</a>'
+											+'<a class="overlay" id="'+value.data.judul.split(" ").join("")+'"></a>'
+											+'<div class="popup">'
+													+'<h2 style="word-break: break-all;overflow: hidden;text-overflow: ellipsis;">'
+													+value.data.judul+' '
+													+value.data.tahun+'</h2>'
+													+'<div style="display: inline-flex;"><div style="margin: 7px;width: initial;display: inline-block;"><img src="'
+													+value.data.image+
+													'" style="height: auto;min-height: 20.9px;max-width: 140px;width: auto;"></div>'
+													+'<div style="margin: 10px;display: inline-block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
+													+value.data.sinopsis
+													+'</p></div></div>'
+													+'<a class="close" href="#close"></a>'
+											+'</div>'
+								+'</div>';
+}
+
 function allfilms(){
 	$.getJSON( 'https://raw.githubusercontent.com/ProjectFantasticFive/Tubes_Anotasi_Data/master/%5BDONT%20CHANGE%20THIS%20FILE%5D%20Labeled%20IMDb%20list%20of%20films.json', function(data_films) {
 		var datafilms = '';
 		$.each( data_films, function(index, value) {
-
-			datafilms += '<div class="filmrec">'
-												+'<img src="'+value.data.image+'.jpg">'
-													+'<a class="film_id" href="#'+value.data.judul.split(" ").join("")+'">'+value.data.judul+'</a>'
-													+'<a class="overlay" id="'+value.data.judul.split(" ").join("")+'"></a>'
-													+'<div class="popup">'
-															+'<h2 style="word-break: break-all;overflow: hidden;text-overflow: ellipsis;">'
-															+value.data.judul+' '
-															+value.data.tahun+'</h2>'
-															+'<div style="display: inline-flex;"><div style="margin: 7px;width: initial;display: inline-block;"><img src="'
-															+value.data.image+
-															'" style="height: auto;min-height: 20.9px;max-width: 140px;width: auto;"></div>'
-															+'<div style="margin: 10px;display: inline-block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
-															+value.data.sinopsis
-															+'</p></div></div>'
-															+'<a class="close" href="#close"></a>'
-													+'</div>'
-										+'</div>';
+			datafilms += datafilms_01(value);
 		});
 		$('#list_of_films2').append(datafilms);
   });
 }
 
-function recfilm(){
-	$.getJSON( 'https://raw.githubusercontent.com/ProjectFantasticFive/Tubes_Anotasi_Data/master/%5BDONT%20CHANGE%20THIS%20FILE%5D%20Labeled%20IMDb%20list%20of%20films.json', function(data_films) {
+function recfilm(value2){
 		var datafilms = '';
-		$.each( data_films, function(index, value) {
+		$.each( value2, function(index, value) {
 			if (index > 4) {
 				return false;
 			}
-
-			datafilms += '<div class="filmrec">'
-												+'<img src="'+value.data.image+'.jpg">'
-													+'<a class="film_id" href="#'+value.data.judul.split(" ").join("")+'">'+value.data.judul+'</a>'
-													+'<a class="overlay" id="'+value.data.judul.split(" ").join("")+'"></a>'
-													+'<div class="popup">'
-															+'<h2 style="word-break: break-all;overflow: hidden;text-overflow: ellipsis;">'
-															+value.data.judul+' '
-															+value.data.tahun+'</h2>'
-															+'<div style="display: inline-flex;"><div style="margin: 7px;width: initial;display: inline-block;"><img src="'
-															+value.data.image+
-															'" style="height: auto;min-height: 20.9px;max-width: 140px;width: auto;"></div>'
-															+'<div style="margin: 10px;display: inline-block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
-															+value.data.sinopsis
-															+'</p></div></div>'
-															+'<a class="close" href="#close"></a>'
-													+'</div>'
-										+'</div>';
+			datafilms += datafilms_01(value);
 		});
 		$('#list_of_films1').append(datafilms);
-  });
 }
 
-function searchfilm(){
-	$(document).ready(function(){
-		$("#myInput").on("keyup", function() {
-			var value = $(this).val().toLowerCase();
-			$("#list_of_films2 h2").filter(function() {
+function search_films(value2) {
+		$('#fh5co-results').css('display', 'none');
+	var txt;
+		$('#fh5co-header-subscribe').change(function(event) {
+			var form = $('#fh5co-header-subscribe');
+			txt = form.find('input[name="myInput01"]').val();
+			if(txt == ''){
+				$('#fh5co-results').css('display', 'none');
+				$('#fh5co-core-feature').css('display', 'inherit');
+				$('#fh5co-services').css('display', 'inherit');
+				return;
+			}else{
+				$('#fh5co-core-feature').css('display', 'none');
+				$('#fh5co-services').css('display', 'none');
+				$('#fh5co-results').css('display', 'inherit');
+			}
+				var datafilms = '';
+				$.each( value2, function(index, value) {
+					var object = value.completions[0].result;
+					var ada = 0;
+					object.forEach((item, i) => {
+						if(txt.toLowerCase() == item.value.rectanglelabels[0]){
+							ada = 1;
+							return;
+						}
+					});
 
-		$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-			});
+					if (ada == 1) {
+						datafilms += datafilms_01(value);
+					}
+
+				});
+				if (datafilms == '') {
+					$('#films_result').empty().append('<p>Yang kamu cari tidak ada</p>');
+				}else {
+					$('#films_result').empty().append(datafilms);
+				}
+
+
 		});
-		$('#hasil_search').append(value);
+}
+
+function loadjson() {
+	$.getJSON( 'https://raw.githubusercontent.com/ProjectFantasticFive/Tubes_Anotasi_Data/master/%5BDONT%20CHANGE%20THIS%20FILE%5D%20Labeled%20IMDb%20list%20of%20films.json', function(data_films) {
+		recfilm(data_films);
+		search_films(data_films);
 	});
 }

@@ -33,9 +33,16 @@
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script src="js/respond.min.js"></script>
 
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+
+	<!-- Main -->
+	<script src="js/main.js"></script>
 
 	</head>
-	<body onload="recfilm()">
+	<body onload="loadjson()">
 
 	<div class="fh5co-loader"></div>
 
@@ -67,11 +74,10 @@
 							<h1>CARI FILM DISINI!</h1>
 							<h2>Berbagai Informasi Tentang Film yang Anda Cari, By <a href="https://projectfantasticfive.github.io/Tubes_Anotasi_Data/" target="_blank">Fantastic Five</a></h2>
 							<div class="row">
-								<form class="form-inline" id="fh5co-header-subscribe">
+								<form class="form-inline" id="fh5co-header-subscribe" onsubmit="return false;">
 									<div class="col-md-8 col-md-offset-2">
 										<div class="form-group">
-											<input type="text" class="form-control" id="myInput" placeholder="Tags you want search">
-											<button type="submit" class="btn btn-default">Search</button>
+											<input type="text" name="myInput01" class="form-control" id="myInput" placeholder="Tags you want search">
 										</div>
 									</div>
 								</form>
@@ -80,10 +86,20 @@
 					</div>
 				</div>
 			</div>
-			<div id="hasil_search">
-			</div> 
 		</div>
 	</header>
+
+	<!-- Menampilkan hasil search dari search bar -->
+	<div id="fh5co-results" class="container">
+		<div class="container">
+				<div class="feature-center" data-animate-effect="fadeIn">
+					<center><h1>Hasil pencarian ada disini!</h1><hr>
+					<br/>
+					<ul class="list_of_films" id="films_result">
+					</ul>
+				</div>
+		</div>
+	</div>
 
 	<div id="fh5co-core-feature">
 		<div class="container">
@@ -159,17 +175,10 @@
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 	</div>
 
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
 	<script src="js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
 	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Main -->
-	<script src="js/main.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
