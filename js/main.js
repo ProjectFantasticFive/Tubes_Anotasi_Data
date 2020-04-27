@@ -267,3 +267,16 @@ function recfilm(){
 		$('#list_of_films1').append(datafilms);
   });
 }
+
+function searchfilm(){
+	$(document).ready(function(){
+		$("#myInput").on("keyup", function() {
+			var value = $(this).val().toLowerCase();
+			$("#list_of_films2 h2").filter(function() {
+
+		$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+			});
+		});
+		$('#hasil_search').append(value);
+	});
+}
