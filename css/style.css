@@ -1591,7 +1591,7 @@ a.film_id:hover, a#join_pop:hover {
 }
 
 .list_of_films .filmrec p{
-  text-align: center;
+  text-align: inherit;
   color: black;
   padding: 10px;
 }
