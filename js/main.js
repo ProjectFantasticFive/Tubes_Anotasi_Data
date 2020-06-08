@@ -215,9 +215,12 @@ function datafilms_01(value) {
 	var label = [];
 		var object = value.completions[0].result;
 		object.forEach((item, i) => {
-			label.push(" "+item.value.rectanglelabels[0].charAt(0).toUpperCase()+item.value.rectanglelabels[0].slice(1));
+			var x = " "+item.value.rectanglelabels[0].charAt(0).toUpperCase()+item.value.rectanglelabels[0].slice(1);
+			if (label.includes(x)) {
+			}else{
+				label.push(x);
+			}
 		});
-		console.log(label);
 	return '<div class="filmrec">'
 										+'<img src="'+value.data.image+'.jpg">'
 											+'<a class="film_id" href="#'+value.data.judul.split(" ").join("")+'">'+value.data.judul+'</a>'
