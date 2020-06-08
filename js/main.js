@@ -212,6 +212,13 @@
 }());
 
 function datafilms_01(value) {
+	var label = [];
+	$.each( value, function(index, value1) {
+		var object = value1.completions[0].result;
+		object.forEach((item, i) => {
+			label.push(item.value.rectanglelabels[0]);
+		});
+	});
 	return '<div class="filmrec">'
 										+'<img src="'+value.data.image+'.jpg">'
 											+'<a class="film_id" href="#'+value.data.judul.split(" ").join("")+'">'+value.data.judul+'</a>'
@@ -232,6 +239,8 @@ function datafilms_01(value) {
 													+'</p><p>'
 													+'Synopsis : '
 													+value.data.sinopsis
+													+'Label : '
+													+label
 													+'</p></div></div>'
 													+'<a class="close" href="#close"></a>'
 											+'</div>'
@@ -239,6 +248,7 @@ function datafilms_01(value) {
 
 
 }
+
 
 function allfilms(){
 	$.getJSON( 'https://raw.githubusercontent.com/ProjectFantasticFive/Tubes_Anotasi_Data/master/%5BDONT%20CHANGE%20THIS%20FILE%5D%20Labeled%20IMDb%20list%20of%20films.json', function(data_films) {
