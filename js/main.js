@@ -213,12 +213,11 @@
 
 function datafilms_01(value) {
 	var label = [];
-	$.each( value, function(index, value1) {
-		var object = value1.completions[0].result;
+		var object = value.completions[0].result;
 		object.forEach((item, i) => {
-			label.push(item.value.rectanglelabels[0]);
+			label.push(" "+item.value.rectanglelabels[0].charAt(0).toUpperCase()+item.value.rectanglelabels[0].slice(1));
 		});
-	});
+		console.log(label);
 	return '<div class="filmrec">'
 										+'<img src="'+value.data.image+'.jpg">'
 											+'<a class="film_id" href="#'+value.data.judul.split(" ").join("")+'">'+value.data.judul+'</a>'
@@ -227,26 +226,25 @@ function datafilms_01(value) {
 													+'<h2 style="word-break: break-all;overflow: hidden;text-overflow: ellipsis;">'
 													+value.data.judul+' '
 													+'</h2>'
-													+'<div style="display: inline-flex;"><div style="margin: 7px;width: initial;display: inline-block;"><img src="'
+													+'<div style="height: inherit; display: inline-flex;"><div style="margin: 7px;width: initial;display: inline-block;"><img src="'
 													+value.data.image+
 													'" style="height: auto;min-height: 20.9px;max-width: 140px;width: auto;"></div>'
-													+'<div style="overflow-y: scroll;margin: 10px;display: inline-block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
-													+'Release Year : '
+													+'<div style="overflow-y: scroll;margin: 10px;display: inline-block;"><p style="word-break: break-word;overflow: hidden;">'
+													+'<strong>Release Year: </strong>'
 													+value.data.tahun
-													+'</p><p>'
-													+'Genre : '
+													+'<br>'
+													+'<strong>Genre: </strong>'
 													+value.data.genre
-													+'</p><p>'
-													+'Synopsis : '
+													+'<br>'
+													+'<strong>Synopsis: </strong>'
 													+value.data.sinopsis
-													+'Label : '
+													+'<br>'
+													+'<strong>Label:</strong>'
 													+label
 													+'</p></div></div>'
 													+'<a class="close" href="#close"></a>'
 											+'</div>'
 								+'</div>';
-
-
 }
 
 
@@ -297,7 +295,6 @@ function search_films(value2) {
 							return;
 						}
 					});
-
 					if (ada == 1) {
 						datafilms += datafilms_01(value);
 					}
@@ -308,8 +305,6 @@ function search_films(value2) {
 				}else {
 					$('#films_result').empty().append(datafilms);
 				}
-
-
 		});
 }
 
