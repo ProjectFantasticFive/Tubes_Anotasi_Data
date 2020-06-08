@@ -223,12 +223,22 @@ function datafilms_01(value) {
 													+'<div style="display: inline-flex;"><div style="margin: 7px;width: initial;display: inline-block;"><img src="'
 													+value.data.image+
 													'" style="height: auto;min-height: 20.9px;max-width: 140px;width: auto;"></div>'
-													+'<div style="margin: 10px;display: inline-block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
+													+'<div style="overflow-y: scroll;margin: 10px;display: inline-block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
 													+value.data.sinopsis
+													+'</p></div>'
+
+													+'<div>'
+													+'<div style="margin: 10px;display: block;"><p style="display: table-row;word-break: break-word;overflow: hidden;text-overflow: ellipsis;">'
+													+'<p>'+ 'Genre : '+'</p><p>'
+													+value.data.genre
 													+'</p></div></div>'
+													+'</div>'
+
 													+'<a class="close" href="#close"></a>'
 											+'</div>'
 								+'</div>';
+
+
 }
 
 function allfilms(){
