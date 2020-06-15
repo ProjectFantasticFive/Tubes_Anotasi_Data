@@ -34,7 +34,7 @@ Modify by           : Fantastic Five
 	<link rel="stylesheet" href="css/style.css">
 
 	</head>
-	<body onload="allfilms()">
+	<body onload="loadjson()">
 
 	<div class="fh5co-loader"></div>
 
@@ -60,38 +60,19 @@ Modify by           : Fantastic Five
 	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/Banner_FanFilm.jpg);">
 	</header>
 
-	<div id="fh5co-project">
-		<div class="row">
-			<div class="container">
-				<div class="table-reponsive-sm">
-					<caption><h2><center>Fantastic Film &mdash; Every film information that you want</center></h2></caption>
-						<thead>
-							<ul class="list_of_films" id="list_of_films2">
-							</ul>
-						</thead>
+	<!-- Menampilkan hasil search dari search bar -->
+	<div id="fh5co-results" class="container">
+		<div class="container">
+				<div class="feature-center" data-animate-effect="fadeIn">
+					<center><h1>Search results are here!</h1><hr>
+					<br/>
+					<ul class="list_of_films" id="films_result">
+					</ul>
 				</div>
-			</div>
 		</div>
 	</div>
-	<!-- <script>
-		$(document).ready(function(){
-			$.getJSON("[DONT CHANGE THIS FILE] Labeled IMDb list of films.json", function(data)){
 
-				var datafilm = '';
-				$.each(data, function(key, value){
-					datafilm += '<tr>';
-					datafilm += '<td>'+(key+1)+'</td>';
-					datafilm += "<td><img src='"+value["Brand_img"]+"'></td>";
-					datafilm += '<td>'+value.Judul Film+'</td>';
-					datafilm += '<td>'+value.Genre+'</td>';
-					datafilm += '<td>'+value.Label+'</td>';
-					datafilm += '<td>'+value.Sinopsis+'</td>';
-				});
-				$('#table').append(datafilm);
-			});
-		});
-	</script> -->
-
+	
 
 	<footer id="fh5co-footer" role="contentinfo">
 		<div class="container">
@@ -139,6 +120,7 @@ Modify by           : Fantastic Five
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script src="js/respond.min.js"></script>
 
 	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
@@ -150,10 +132,14 @@ Modify by           : Fantastic Five
 	<script type="text/javascript" src="js/Navbar.js"></script>
 	<script type="text/javascript" src="js/loadJson.js"></script>
 
+	<!-- Chart -->
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script src="js/loadChart.js"></script>
+
 	<!-- Bootstrap -->
 	<script src="js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
 	<script src="js/jquery.waypoints.min.js"></script>
-
+	</script>
 	</body>
 </html>
