@@ -32,11 +32,11 @@ function drawChartFilms() {
     var percent = getPercent(data1, 5);
     var data = google.visualization.arrayToDataTable(data1);
     // Optional; add a title and set the width and height of the chart
-    var options = {'width':500, 'height':400,
+    var options = {'width':'100%', 'height':500,
       colors: ['#e0440e', '#e6693e', '#ec8f6e', '#f3b49f', '#f6c7b6'],
       sliceVisibilityThreshold: percent, vAxis: {minValue: 0}, legend:{position: 'none'}};
     // Display the chart inside the <div> element with id="piechart"
-    var chart = new google.visualization.PieChart(document.getElementById('filmsChart'));
+    var chart = new google.visualization.PieChart(document.getElementById('charts'));
     chart.draw(data, options);
   });
 }

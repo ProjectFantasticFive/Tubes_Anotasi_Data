@@ -1,5 +1,5 @@
 /*----------------------------------------------------
-Referensi templates : Bootstrap 
+Referensi templates : Bootstrap
 Modify by           : Fantastic Five
 ------------------------------------------------------*/
 
@@ -1524,23 +1524,45 @@ a.film_id:hover, a#join_pop:hover {
 }
 
 .list_of_films{
+  padding: 0px;
   text-align: center;
 }
 
 .list_of_films .filmrec{
-  width: 140px;
-  height: 209px;
-  display: inline-block;
-  margin: 3%;
+  border-style: solid;
+  border-width:thin;
+  background-color: #eeeeee;
+  width: auto;
+  height: auto;
+  display: inline-table;
+  margin: 2%;
+  padding: 7px;
 }
 
 .list_of_films .filmrec img{
-  width: 100%;
-  height: 100%;
+  width: 20px;
 }
+
 
 .list_of_films .filmrec p{
   text-align: inherit;
   color: black;
   padding: 10px;
+}
+
+@media screen and (min-width: 420px) {
+  .list_of_films .filmrec{
+    border-style: none;
+    border-width: unset;
+    background-color: transparent;
+    width: 140px;
+    height: 209px;
+    display: inline-block;
+    margin: 3%;
+  }
+
+  .list_of_films .filmrec img{
+    width: 100%;
+    height: 100%;
+  }
 }

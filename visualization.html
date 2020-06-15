@@ -1,5 +1,5 @@
 <!------------------------------------------------------
-Referensi templates : Bootstrap 
+Referensi templates : Bootstrap
 Modify by           : Fantastic Five
 -------------------------------------------------------->
 <!DOCTYPE HTML>
@@ -34,7 +34,7 @@ Modify by           : Fantastic Five
 	<link rel="stylesheet" href="css/style.css">
 
 	</head>
-	<body onload="loadjson()">
+	<body>
 
 	<div class="fh5co-loader"></div>
 
@@ -60,18 +60,29 @@ Modify by           : Fantastic Five
 	</header>
 
 	<!-- Menampilkan hasil search dari search bar -->
-	<div id="fh5co-results" class="container">
+	<div class="container">
 		<div class="container">
-				<div class="feature-center" data-animate-effect="fadeIn">
-					<center><h1>Search results are here!</h1><hr>
-					<br/>
-					<ul class="list_of_films" id="films_result">
-					</ul>
+				<div class="feature-center" style="margin-top:20px; margin-bottom:0px" data-animate-effect="fadeIn">
+					<center><h1>Data results</h1><hr>
 				</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div id="charts" class="col-xs-12" data-animate-effect="fadeIn">
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div id="123" class="col-xs-12" data-animate-effect="fadeIn">
+					helooo
+				</div>
+			</div>
 		</div>
 	</div>
 
-	
+
 
 	<footer id="fh5co-footer" role="contentinfo">
 		<div class="container">
@@ -139,6 +150,5 @@ Modify by           : Fantastic Five
 	<script src="js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
 	<script src="js/jquery.waypoints.min.js"></script>
-	</script>
 	</body>
 </html>
