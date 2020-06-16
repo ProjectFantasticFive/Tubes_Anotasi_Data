@@ -7,5 +7,4 @@ $(document).ready(function hello() {
       nav.style.background = "transparent";
     }
   }
-  console.log(nav);
 });

@@ -1566,3 +1566,9 @@ a.film_id:hover, a#join_pop:hover {
     height: 100%;
   }
 }
+
+.labels{
+  display: inline-flex;
+  padding: 3px;
+  margin: 1%;
+}

@@ -40,3 +40,16 @@ function drawChartFilms() {
     chart.draw(data, options);
   });
 }
+
+$(document).ready(function returnLabel() {
+  var labels01 = ["angka","lari","perempuan","kartun","astronot","laki-laki","binatang","air","mobil","suara",
+                  "perang","nazi","alien","future","waktu","gitar","mata","agent","air laut","drum","perahu","kumpulan",
+                  "tumbuhan","sahabat","keluarga","teman","pacar","ayah","ibu","koboi","kuda","AI","mimpi","kaki",
+                  "kantor","kota","rumah","orang-orang","robot","alat musik","gedung"]
+
+  $.each(labels01, function(key, value){
+    $('#labels02').append('<div class="labels">'+value+'<div>');
+  }
+
+  );
+});
