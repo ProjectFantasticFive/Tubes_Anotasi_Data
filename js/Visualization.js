@@ -14,6 +14,7 @@ function getPercent(data, n){
 
 // Draw the chart and set the chart values
 function drawChartFilms() {
+  var count = 0;
   var data1 = [['Task', 'Hours per Day'], ['Drama', 0], ['Romance', 0], ['Sci-Fi', 0], ['Adventure', 0],
   ['Crime', 0], ['Mystery', 0], ['Music', 0], ['Family', 0], ['Animation', 0],
   ['Horror', 0], ['Western', 0], ['Comedy', 0], ['Thriller', 0], ['Biography', 0],
@@ -28,7 +29,16 @@ function drawChartFilms() {
         }
         data1[j][1] += 1;
       });
+        count++;
     });
+    $('#number_films,#number_films01').animateNumber(
+      {
+        number: count
+      },
+      {
+        duration: 15000
+      }
+    );
     var percent = getPercent(data1, 5);
     var data = google.visualization.arrayToDataTable(data1);
     // Optional; add a title and set the width and height of the chart
