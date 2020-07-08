@@ -1286,7 +1286,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #eea236 !important;
   border-color: #eea236 !important;
 }
-.btn-warning.btn-outline {
+.btn-warning.btn-outline 
   background: transparent;
   color: #f0ad4e;
   border: 2px solid #f0ad4e;
