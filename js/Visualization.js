@@ -44,7 +44,7 @@ function drawChartFilms() {
     // Optional; add a title and set the width and height of the chart
     var options = {'width':'100%', 'height':500,
       colors: ['#e0440e', '#e6693e', '#ec8f6e', '#f3b49f', '#f6c7b6'],
-      sliceVisibilityThreshold: percent, vAxis: {minValue: 0}, legend:{position: 'none'}};
+      sliceVisibilityThreshold: percent, vAxis: {minValue: 0}, legend:{position: 'labeled'}, pieSliceText: 'value'};
     // Display the chart inside the <div> element with id="piechart"
     var chart = new google.visualization.PieChart(document.getElementById('charts'));
     chart.draw(data, options);
